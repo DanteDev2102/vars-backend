@@ -1,9 +1,10 @@
 version: '3.8'
 services:
-  mongodb:
+  db:
+    container_name: ${PROJECT_NAME}_DB
     image: mongo:6-jammy
     ports:
-      - 27017:27017
+      - ${DB_PORT}:27017
     volumes:
       - dbdata6:/data/db
 volumes:
