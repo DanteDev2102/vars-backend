@@ -17,6 +17,10 @@ const model = new Schema(
       required: true,
       unique: true
     },
+    password: {
+      type: Types.String,
+      required: true
+    },
     profileUrl: Types.String,
     addictionId: {
       type: Types.ObjectId,
@@ -54,5 +58,7 @@ const model = new Schema(
     collection: 'users'
   }
 );
+
+model.post('save');
 
 export default mongoose.models.users || mongoose.model('users', model);

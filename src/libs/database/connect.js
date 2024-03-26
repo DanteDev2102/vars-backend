@@ -24,7 +24,7 @@ export async function connectDB(tries = 0) {
 }
 
 mongoose.connection.on('connected', () => {
-  logger.error('database connection successful');
+  logger.info('database connection successful');
 });
 
 mongoose.connection.on('error', (error) => {

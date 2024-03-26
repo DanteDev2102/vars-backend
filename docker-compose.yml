@@ -4,8 +4,8 @@ services:
     container_name: ${PROJECT_NAME}_DB
     image: mongo:6-jammy
     ports:
-      - ${DB_PORT}:27017
+      - ${PORT_DB}:27017
     volumes:
-      - dbdata6:/data/db
+      - dbdata:/data/db
 volumes:
-  dbdata6:
+  dbdata:
