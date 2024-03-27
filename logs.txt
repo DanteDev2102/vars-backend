@@ -853,3 +853,142 @@
 [[32minfo[39m] 2024-03-25 21:22:42 [32mdatabase connection successful[39m
 [[32minfo[39m] 2024-03-25 22:19:43 [32mserver run in http://0.0.0.0:3000[39m
 [[32minfo[39m] 2024-03-25 22:19:43 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-03-26 21:40:36 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-03-26 21:40:36 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-03-26 21:40:50 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-03-26 21:40:50 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-03-26 21:40:57 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-03-26 21:40:57 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-03-26 21:41:01 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-03-26 21:41:01 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-03-26 21:41:40 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-03-26 21:41:40 [32mdatabase connection successful[39m
+[[31merror[39m] 2024-03-26 21:41:40 [31muncaugth exception: Error: post() requires a function, got "undefined"[39m
+[[32minfo[39m] 2024-03-26 21:41:51 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-03-26 21:41:51 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-03-26 21:41:55 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-03-26 21:41:55 [32mdatabase connection successful[39m
+[[31merror[39m] 2024-03-26 21:41:55 [31muncaugth exception: Error: post() requires a function, got "undefined"[39m
+[[32minfo[39m] 2024-03-26 21:42:11 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-03-26 21:42:11 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-03-26 21:42:24 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-03-26 21:42:24 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-03-26 21:43:26 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-03-26 21:43:26 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-03-26 21:43:34 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-03-26 21:43:34 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-03-26 21:44:22 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-03-26 21:44:22 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-03-26 21:44:39 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-03-26 21:44:39 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-03-26 21:44:51 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-03-26 21:44:51 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-03-26 21:44:59 [32m{[39m
+[32m  name: 'dante',[39m
+[32m  lastname: 'dev',[39m
+[32m  email: 'dantedev@gmail.com',[39m
+[32m  password: 'R1v3n0nl1$',[39m
+[32m  role: 'professional',[39m
+[32m  isActive: true,[39m
+[32m  _id: new ObjectId('66037a1b1c3a374624ec35ca'),[39m
+[32m  notes: [],[39m
+[32m  goals: [],[39m
+[32m  createdAt: 2024-03-27T01:44:59.030Z,[39m
+[32m  updatedAt: 2024-03-27T01:44:59.030Z,[39m
+[32m  __v: 0[39m
+[32m}[39m
+[[32minfo[39m] 2024-03-26 21:45:11 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-03-26 21:45:11 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-03-26 21:45:13 [32mE11000 duplicate key error collection: vars.users index: email_1 dup key: { email: "dantedev@gmail.com" }[39m
+[[32minfo[39m] 2024-03-26 21:45:31 [32m{[39m
+[32m  name: 'dante',[39m
+[32m  lastname: 'dev',[39m
+[32m  email: 'dantedev1@gmail.com',[39m
+[32m  password: 'R1v3n0nl1$',[39m
+[32m  role: 'professional',[39m
+[32m  isActive: true,[39m
+[32m  _id: new ObjectId('66037a3bc54d1c78608b9cff'),[39m
+[32m  notes: [],[39m
+[32m  goals: [],[39m
+[32m  createdAt: 2024-03-27T01:45:31.743Z,[39m
+[32m  updatedAt: 2024-03-27T01:45:31.743Z,[39m
+[32m  __v: 0[39m
+[32m}[39m
+[[32minfo[39m] 2024-03-26 21:45:31 [32mres.created is not a function[39m
+[[32minfo[39m] 2024-03-26 21:47:14 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-03-26 21:47:14 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-03-26 21:47:22 [32m{[39m
+[32m  name: 'dante',[39m
+[32m  lastname: 'dev',[39m
+[32m  email: 'dantedev2@gmail.com',[39m
+[32m  password: 'R1v3n0nl1$',[39m
+[32m  role: 'professional',[39m
+[32m  isActive: true,[39m
+[32m  _id: new ObjectId('66037aaa090d5a08a2f2899c'),[39m
+[32m  notes: [],[39m
+[32m  goals: [],[39m
+[32m  createdAt: 2024-03-27T01:47:22.723Z,[39m
+[32m  updatedAt: 2024-03-27T01:47:22.723Z,[39m
+[32m  __v: 0[39m
+[32m}[39m
+[[32minfo[39m] 2024-03-26 21:47:45 [32musers validation failed: role: `pattien` is not a valid enum value for path `role`.[39m
+[[32minfo[39m] 2024-03-26 21:48:04 [32musers validation failed: addictionId: Path `addictionId` is required.[39m
+[[32minfo[39m] 2024-03-26 21:48:25 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-03-26 21:48:25 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-03-26 21:50:03 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-03-26 21:50:03 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-03-26 21:50:11 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-03-26 21:50:11 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-03-26 21:50:19 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-03-26 21:50:19 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-03-26 21:50:25 [32mdante[39m
+[[32minfo[39m] 2024-03-26 21:50:43 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-03-26 21:50:43 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-03-26 21:50:52 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-03-26 21:50:52 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-03-26 21:50:59 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-03-26 21:50:59 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-03-26 21:52:47 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-03-26 21:52:47 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-03-26 21:53:21 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-03-26 21:53:21 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-03-26 21:54:32 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-03-26 21:54:32 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-03-26 21:54:39 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-03-26 21:54:39 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-03-26 21:54:52 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-03-26 21:54:52 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-03-26 21:54:54 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-03-26 21:54:54 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-03-26 21:54:57 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-03-26 21:54:57 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-03-26 21:55:03 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-03-26 21:55:03 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-03-26 21:55:23 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-03-26 21:55:23 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-03-26 21:55:39 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-03-26 21:55:39 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-03-26 21:55:48 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-03-26 21:55:48 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-03-26 21:55:54 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-03-26 21:55:54 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-03-26 21:55:56 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-03-26 21:55:57 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-03-26 21:56:01 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-03-26 21:56:01 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-03-26 21:58:38 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-03-26 21:58:38 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-03-26 21:58:56 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-03-26 21:58:56 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-03-26 21:59:14 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-03-26 21:59:14 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-03-26 22:00:18 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-03-26 22:00:18 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-03-26 22:00:34 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-03-26 22:00:34 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-03-26 22:01:40 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-03-26 22:01:40 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-03-26 22:02:58 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-03-26 22:02:58 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-03-26 22:03:54 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-03-26 22:03:54 [32mdatabase connection successful[39m

@@ -59,6 +59,6 @@ const model = new Schema(
   }
 );
 
-model.post('save');
+// model.post('save');
 
 export default mongoose.models.users || mongoose.model('users', model);
