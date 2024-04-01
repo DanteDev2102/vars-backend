@@ -1,994 +1,189 @@
-{"level":"info","message":"init app"}
-{"level":"info","message":"init app"}
-[32minfo[39m: [32minit app[39m
-[32minfo[39m: [32minit app[39m
-[32minfo[39m: [32minit app[39m
-[32minfo[39m: [32minit app[39m
-[32minfo[39m: [32minit app[39m
-[32minfo[39m: [32minit app[39m
-[32minfo[39m: [32minit app[39m
-[31merror[39m: [31muncaugth exception: ReferenceError: a is not defined[39m
-[32minfo[39m: [32minit app[39m
-[32minfo[39m: [32minit app[39m
-[32minfo[39m: [32mserver run in http://localhost:3000[39m
-[32minfo[39m: [32mserver run in http://localhost:3000[39m
-[32minfo[39m: [32mserver run in http://localhost:3000[39m
-[32minfo[39m: [32mserver run in http://localhost:3000[39m
-[32minfo[39m: [32mserver run in http://localhost:3000[39m
-[32minfo[39m: [32mserver run in http://localhost:3000[39m
-[32minfo[39m: [32mserver run in http://localhost:3000[39m
-[32minfo[39m: [32mserver run in http://localhost:3000[39m
-[32minfo[39m: [32mserver run in http://localhost:3000[39m {"timestamp":"2024-03-05 21:19:10"}
-{"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mserver run in http://localhost:3000\u001b[39m","timestamp":"2024-03-05 21:19:33"}
-[32minfo[39m: [32mserver run in http://localhost:3000[39m
-[32minfo[39m: [32mserver run in http://localhost:3000[39m
-[32minfo[39m: [32mserver run in http://localhost:3000[39m {"timestamp":"2024-03-05 21:20:17"}
-[32minfo[39m: [32mserver run in http://localhost:3000[39m {"timestamp":"2024-03-05 21:20:44"}
-[32minfo: server run in http://localhost:3000 {"timestamp":"2024-03-05 21:20:49"}[39m
-[32minfo: server run in http://localhost:3000 {"timestamp":"2024-03-05 21:21:07"}[39m
-[object Object]
-{"message":"\u001b[32mserver run in http://localhost:3000\u001b[39m","level":"\u001b[32minfo\u001b[39m","timestamp":"2024-03-05 21:23:12"}
-[[32minfo[39m] 2024-03-05 21:23:44
-[[32minfo[39m] 2024-03-05 21:24:03 [32mserver run in http://localhost:3000[39m
-[[32minfo[39m] 2024-03-05 21:24:09 [32mserver run in http://localhost:3000[39m
-[[32minfo[39m] 2024-03-05 21:28:31 [32mserver run in http://localhost:3000[39m
-[[32minfo[39m] 2024-03-05 21:36:36 [32mserver run in http://localhost:3000[39m
-[[32minfo[39m] 2024-03-05 21:37:07 [32mserver run in http://localhost:3000[39m
-[[32minfo[39m] 2024-03-05 21:37:54 [32mserver run in http://localhost:3000[39m
-[[32minfo[39m] 2024-03-05 21:39:44 [32mserver run in http://localhost:3000[39m
-[[32minfo[39m] 2024-03-05 21:40:16 [32mserver run in http://localhost:3000[39m
-[[32minfo[39m] 2024-03-05 21:41:37 [32mserver run in http://localhost:3000[39m
-[[32minfo[39m] 2024-03-05 21:41:45 [32mserver run in http://localhost:3000[39m
-[[32minfo[39m] 2024-03-05 21:42:14 [32mserver run in http://localhost:3000[39m
-[[32minfo[39m] 2024-03-05 21:42:46 [32mserver run in http://localhost:3000[39m
-[[32minfo[39m] 2024-03-05 21:42:54 [32mserver run in http://localhost:3000[39m
-[[32minfo[39m] 2024-03-05 21:43:18 [32mserver run in http://localhost:3000[39m
-[[32minfo[39m] 2024-03-05 21:43:29 [32mserver run in http://localhost:3000[39m
-[[32minfo[39m] 2024-03-05 21:43:49 [32mserver run in http://localhost:3000[39m
-[[32minfo[39m] 2024-03-05 22:08:48 [32mserver run in http://localhost:3000[39m
-[[32minfo[39m] 2024-03-05 22:10:28 [32mserver run in http://localhost:3000[39m
-[[32minfo[39m] 2024-03-05 22:10:28 [32mdatabase connection successful[39m
-[[31merror[39m] 2024-03-05 22:10:58 [31muncaugth exception: MongoServerSelectionError: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017[39m
-[[32minfo[39m] 2024-03-05 22:11:12 [32mserver run in http://localhost:3000[39m
-[[32minfo[39m] 2024-03-05 22:11:12 [32mdatabase connection successful[39m
-[[32minfo[39m] 2024-03-05 22:11:15 [32mserver run in http://localhost:3000[39m
-[[32minfo[39m] 2024-03-05 22:11:15 [32mdatabase connection successful[39m
-[[31merror[39m] 2024-03-05 22:11:45 [31muncaugth exception: MongoServerSelectionError: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017[39m
-[[32minfo[39m] 2024-03-05 22:14:36 [32mserver run in http://localhost:3000[39m
-[[32minfo[39m] 2024-03-05 22:14:36 [32mdatabase connection successful[39m
-[[31merror[39m] 2024-03-05 22:15:06 [31muncaugth exception: MongoServerSelectionError: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017[39m
-[[32minfo[39m] 2024-03-05 22:15:35 [32mserver run in http://localhost:3000[39m
-[[32minfo[39m] 2024-03-05 22:15:35 [32mdatabase connection successful[39m
-[[32minfo[39m] 2024-03-05 22:15:42 [32mserver run in http://localhost:3000[39m
-[[32minfo[39m] 2024-03-05 22:15:42 [32mdatabase connection successful[39m
-[[31merror[39m] 2024-03-05 22:16:12 [31muncaugth exception: MongoServerSelectionError: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017[39m
-[[32minfo[39m] 2024-03-05 22:17:40 [32mserver run in http://localhost:3000[39m
-[[32minfo[39m] 2024-03-05 22:17:40 [32mdatabase connection successful[39m
-[[31merror[39m] 2024-03-05 22:18:10 [31muncaugth exception: MongoServerSelectionError: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017[39m
-[[32minfo[39m] 2024-03-05 22:23:46 [32mserver run in http://localhost:3000[39m
-[[32minfo[39m] 2024-03-05 22:23:46 [32mdatabase connection successful[39m
-[[32minfo[39m] 2024-03-05 22:24:47 [32mserver run in http://localhost:3000[39m
-[[32minfo[39m] 2024-03-05 22:24:47 [32mdatabase connection successful[39m
-[[32minfo[39m] 2024-03-05 22:27:04 [32mserver run in http://localhost:3000[39m
-[[32minfo[39m] 2024-03-05 22:27:04 [32mdatabase connection successful[39m
-[[32minfo[39m] 2024-03-05 22:27:15 [32mserver run in http://localhost:3000[39m
-[[32minfo[39m] 2024-03-05 22:27:15 [32mdatabase connection successful[39m
-[[32minfo[39m] 2024-03-05 22:27:31 [32mserver run in http://localhost:3000[39m
-[[32minfo[39m] 2024-03-05 22:27:31 [32mdatabase connection successful[39m
-[[32minfo[39m] 2024-03-05 22:28:43 [32mserver run in http://localhost:3000[39m
-[[32minfo[39m] 2024-03-05 22:28:43 [32mdatabase connection successful[39m
-[[32minfo[39m] 2024-03-05 22:29:47 [32mserver run in http://localhost:3000[39m
-[[32minfo[39m] 2024-03-05 22:29:47 [32mdatabase connection successful[39m
-[[32minfo[39m] 2024-03-05 22:29:58 [32mserver run in http://localhost:3000[39m
-[[32minfo[39m] 2024-03-05 22:29:58 [32mdatabase connection successful[39m
-[[32minfo[39m] 2024-03-05 22:30:42 [32mserver run in http://localhost:3000[39m
-[[32minfo[39m] 2024-03-05 22:30:42 [32mdatabase connection successful[39m
-[[32minfo[39m] 2024-03-05 22:31:12 [32mserver run in http://localhost:3000[39m
-[[32minfo[39m] 2024-03-05 22:31:12 [32mdatabase connection successful[39m
-[[32minfo[39m] 2024-03-05 22:32:34 [32mserver run in http://localhost:3000[39m
-[[32minfo[39m] 2024-03-05 22:32:34 [32mdatabase connection successful[39m
-[[32minfo[39m] 2024-03-05 22:33:57 [32mserver run in http://localhost:3000[39m
-[[32minfo[39m] 2024-03-05 22:33:57 [32mdatabase connection successful[39m
-[[32minfo[39m] 2024-03-05 22:34:01 [32mserver run in http://localhost:3000[39m
-[[32minfo[39m] 2024-03-05 22:34:01 [32mdatabase connection successful[39m
-[[32minfo[39m] 2024-03-05 22:35:46 [32mserver run in http://localhost:3000[39m
-[[32minfo[39m] 2024-03-05 22:35:46 [32mdatabase connection successful[39m
-[[32minfo[39m] 2024-03-05 22:35:52 [32mserver run in http://localhost:3000[39m
-[[32minfo[39m] 2024-03-05 22:35:52 [32mdatabase connection successful[39m
-[[32minfo[39m] 2024-03-05 22:35:59 [32mserver run in http://localhost:3000[39m
-[[32minfo[39m] 2024-03-05 22:35:59 [32mdatabase connection successful[39m
-[[32minfo[39m] 2024-03-05 22:36:20 [32mserver run in http://localhost:3000[39m
-[[32minfo[39m] 2024-03-05 22:36:20 [32mdatabase connection successful[39m
-[[32minfo[39m] 2024-03-05 22:36:27 [32mserver run in http://localhost:3000[39m
-[[32minfo[39m] 2024-03-05 22:36:27 [32mdatabase connection successful[39m
-[[32minfo[39m] 2024-03-05 22:36:43 [32mserver run in http://localhost:3000[39m
-[[32minfo[39m] 2024-03-05 22:36:43 [32mdatabase connection successful[39m
-[[32minfo[39m] 2024-03-05 22:36:48 [32mserver run in http://localhost:3000[39m
-[[32minfo[39m] 2024-03-05 22:36:48 [32mdatabase connection successful[39m
-[[32minfo[39m] 2024-03-05 22:37:08 [32mserver run in http://localhost:3000[39m
-[[32minfo[39m] 2024-03-05 22:37:08 [32mdatabase connection successful[39m
-[[32minfo[39m] 2024-03-05 22:38:00 [32mserver run in http://localhost:3000[39m
-[[32minfo[39m] 2024-03-05 22:38:00 [32mdatabase connection successful[39m
-[[32minfo[39m] 2024-03-05 22:41:01 [32mserver run in http://localhost:3000[39m
-[[32minfo[39m] 2024-03-05 22:41:01 [32mdatabase connection successful[39m
-[[32minfo[39m] 2024-03-05 22:41:32 [32mserver run in http://localhost:3000[39m
-[[32minfo[39m] 2024-03-05 22:41:32 [32mdatabase connection successful[39m
-[[32minfo[39m] 2024-03-05 22:43:34 [32mserver run in http://localhost:3000[39m
-[[32minfo[39m] 2024-03-05 22:43:34 [32mdatabase connection successful[39m
-[[32minfo[39m] 2024-03-05 22:43:43 [32mserver run in http://localhost:3000[39m
-[[32minfo[39m] 2024-03-05 22:43:43 [32mdatabase connection successful[39m
-[[32minfo[39m] 2024-03-05 22:45:06 [32mserver run in http://localhost:3000[39m
-[[32minfo[39m] 2024-03-05 22:45:06 [32mdatabase connection successful[39m
-[[32minfo[39m] 2024-03-05 22:45:15 [32mserver run in http://localhost:3000[39m
-[[32minfo[39m] 2024-03-05 22:45:15 [32mdatabase connection successful[39m
-[[32minfo[39m] 2024-03-05 22:45:34 [32mserver run in http://localhost:3000[39m
-[[32minfo[39m] 2024-03-05 22:45:34 [32mdatabase connection successful[39m
-[[32minfo[39m] 2024-03-05 22:45:48 [32mserver run in http://localhost:3000[39m
-[[32minfo[39m] 2024-03-05 22:45:48 [32mdatabase connection successful[39m
-[[32minfo[39m] 2024-03-05 22:47:06 [32mserver run in http://localhost:3000[39m
-[[32minfo[39m] 2024-03-05 22:47:06 [32mdatabase connection successful[39m
-[[32minfo[39m] 2024-03-05 22:47:09 [32mserver run in http://localhost:3000[39m
-[[32minfo[39m] 2024-03-05 22:47:09 [32mdatabase connection successful[39m
-[[32minfo[39m] 2024-03-05 22:47:54 [32mserver run in http://localhost:3000[39m
-[[32minfo[39m] 2024-03-05 22:47:54 [32mdatabase connection successful[39m
-[[32minfo[39m] 2024-03-05 22:47:54 [32mholis[39m
-[[32minfo[39m] 2024-03-05 22:48:09 [32mserver run in http://localhost:3000[39m
-[[32minfo[39m] 2024-03-05 22:48:09 [32mdatabase connection successful[39m
-[[32minfo[39m] 2024-03-05 22:48:09 [32mholis[39m
-[[32minfo[39m] 2024-03-05 22:48:28 [32mserver run in http://localhost:3000[39m
-[[32minfo[39m] 2024-03-05 22:48:28 [32mdatabase connection successful[39m
-[[32minfo[39m] 2024-03-05 22:48:28 [32mholis[39m
-[[32minfo[39m] 2024-03-05 22:49:32 [32mserver run in http://localhost:3000[39m
-[[32minfo[39m] 2024-03-05 22:49:32 [32mdatabase connection successful[39m
-[[33mwarn[39m] 2024-03-05 22:49:32 [33mit will retry connecting to the database[39m
-[[33mwarn[39m] 2024-03-05 22:49:32 [33mENOENT: no such file or directory, scandir './entities'[39m
-[[32minfo[39m] 2024-03-05 22:49:32 [32mdatabase connection successful[39m
-[[33mwarn[39m] 2024-03-05 22:49:32 [33mit will retry connecting to the database[39m
-[[33mwarn[39m] 2024-03-05 22:49:32 [33mENOENT: no such file or directory, scandir './entities'[39m
-[[32minfo[39m] 2024-03-05 22:49:32 [32mdatabase connection successful[39m
-[[33mwarn[39m] 2024-03-05 22:49:32 [33mit will retry connecting to the database[39m
-[[33mwarn[39m] 2024-03-05 22:49:32 [33mENOENT: no such file or directory, scandir './entities'[39m
-[[32minfo[39m] 2024-03-05 22:49:32 [32mdatabase connection successful[39m
-[[32minfo[39m] 2024-03-05 22:50:40 [32mserver run in http://localhost:3000[39m
-[[32minfo[39m] 2024-03-05 22:50:40 [32mdatabase connection successful[39m
-[[33mwarn[39m] 2024-03-05 22:50:40 [33mit will retry connecting to the database[39m
-[[33mwarn[39m] 2024-03-05 22:50:40 [33mENOENT: no such file or directory, scandir './entities'[39m
-[[32minfo[39m] 2024-03-05 22:50:40 [32mdatabase connection successful[39m
-[[33mwarn[39m] 2024-03-05 22:50:40 [33mit will retry connecting to the database[39m
-[[33mwarn[39m] 2024-03-05 22:50:40 [33mENOENT: no such file or directory, scandir './entities'[39m
-[[32minfo[39m] 2024-03-05 22:50:40 [32mdatabase connection successful[39m
-[[33mwarn[39m] 2024-03-05 22:50:40 [33mit will retry connecting to the database[39m
-[[33mwarn[39m] 2024-03-05 22:50:40 [33mENOENT: no such file or directory, scandir './entities'[39m
-[[32minfo[39m] 2024-03-05 22:50:41 [32mdatabase connection successful[39m
-[[32minfo[39m] 2024-03-05 22:51:23 [32mserver run in http://localhost:3000[39m
-[[32minfo[39m] 2024-03-05 22:51:23 [32mdatabase connection successful[39m
-[[33mwarn[39m] 2024-03-05 22:51:23 [33mit will retry connecting to the database[39m
-[[33mwarn[39m] 2024-03-05 22:51:23 [33mENOTDIR: not a directory, scandir '/home/dante/Documentos/Projects/vars/backend/src/libs/database/connect.js/entities'[39m
-[[32minfo[39m] 2024-03-05 22:51:23 [32mdatabase connection successful[39m
-[[33mwarn[39m] 2024-03-05 22:51:23 [33mit will retry connecting to the database[39m
-[[33mwarn[39m] 2024-03-05 22:51:23 [33mENOTDIR: not a directory, scandir '/home/dante/Documentos/Projects/vars/backend/src/libs/database/connect.js/entities'[39m
-[[32minfo[39m] 2024-03-05 22:51:23 [32mdatabase connection successful[39m
-[[33mwarn[39m] 2024-03-05 22:51:23 [33mit will retry connecting to the database[39m
-[[33mwarn[39m] 2024-03-05 22:51:23 [33mENOTDIR: not a directory, scandir '/home/dante/Documentos/Projects/vars/backend/src/libs/database/connect.js/entities'[39m
-[[32minfo[39m] 2024-03-05 22:51:23 [32mdatabase connection successful[39m
-[[32minfo[39m] 2024-03-05 22:51:33 [32mserver run in http://localhost:3000[39m
-[[33mwarn[39m] 2024-03-05 22:51:33 [33m/home/dante/Documentos/Projects/vars/backend/src/libs/database/connect.js/entities[39m
-[[32minfo[39m] 2024-03-05 22:51:33 [32mdatabase connection successful[39m
-[[33mwarn[39m] 2024-03-05 22:51:33 [33mit will retry connecting to the database[39m
-[[33mwarn[39m] 2024-03-05 22:51:33 [33mENOTDIR: not a directory, scandir '/home/dante/Documentos/Projects/vars/backend/src/libs/database/connect.js/entities'[39m
-[[33mwarn[39m] 2024-03-05 22:51:33 [33m/home/dante/Documentos/Projects/vars/backend/src/libs/database/connect.js/entities[39m
-[[32minfo[39m] 2024-03-05 22:51:33 [32mdatabase connection successful[39m
-[[33mwarn[39m] 2024-03-05 22:51:33 [33mit will retry connecting to the database[39m
-[[33mwarn[39m] 2024-03-05 22:51:33 [33mENOTDIR: not a directory, scandir '/home/dante/Documentos/Projects/vars/backend/src/libs/database/connect.js/entities'[39m
-[[33mwarn[39m] 2024-03-05 22:51:33 [33m/home/dante/Documentos/Projects/vars/backend/src/libs/database/connect.js/entities[39m
-[[32minfo[39m] 2024-03-05 22:51:33 [32mdatabase connection successful[39m
-[[33mwarn[39m] 2024-03-05 22:51:34 [33mit will retry connecting to the database[39m
-[[33mwarn[39m] 2024-03-05 22:51:34 [33mENOTDIR: not a directory, scandir '/home/dante/Documentos/Projects/vars/backend/src/libs/database/connect.js/entities'[39m
-[[33mwarn[39m] 2024-03-05 22:51:34 [33m/home/dante/Documentos/Projects/vars/backend/src/libs/database/connect.js/entities[39m
-[[32minfo[39m] 2024-03-05 22:51:34 [32mdatabase connection successful[39m
-[[32minfo[39m] 2024-03-05 22:51:40 [32mserver run in http://localhost:3000[39m
-[[33mwarn[39m] 2024-03-05 22:51:40 [33m/home/dante/Documentos/Projects/vars/backend/src/libs/database/connect.js/entities[39m
-[[32minfo[39m] 2024-03-05 22:51:40 [32mdatabase connection successful[39m
-[[33mwarn[39m] 2024-03-05 22:51:40 [33mit will retry connecting to the database[39m
-[[33mwarn[39m] 2024-03-05 22:51:40 [33mENOTDIR: not a directory, scandir '/home/dante/Documentos/Projects/vars/backend/src/libs/database/connect.js/entities'[39m
-[[33mwarn[39m] 2024-03-05 22:51:40 [33m/home/dante/Documentos/Projects/vars/backend/src/libs/database/connect.js/entities[39m
-[[32minfo[39m] 2024-03-05 22:51:40 [32mdatabase connection successful[39m
-[[33mwarn[39m] 2024-03-05 22:51:40 [33mit will retry connecting to the database[39m
-[[33mwarn[39m] 2024-03-05 22:51:40 [33mENOTDIR: not a directory, scandir '/home/dante/Documentos/Projects/vars/backend/src/libs/database/connect.js/entities'[39m
-[[33mwarn[39m] 2024-03-05 22:51:40 [33m/home/dante/Documentos/Projects/vars/backend/src/libs/database/connect.js/entities[39m
-[[32minfo[39m] 2024-03-05 22:51:40 [32mdatabase connection successful[39m
-[[33mwarn[39m] 2024-03-05 22:51:40 [33mit will retry connecting to the database[39m
-[[33mwarn[39m] 2024-03-05 22:51:40 [33mENOTDIR: not a directory, scandir '/home/dante/Documentos/Projects/vars/backend/src/libs/database/connect.js/entities'[39m
-[[33mwarn[39m] 2024-03-05 22:51:40 [33m/home/dante/Documentos/Projects/vars/backend/src/libs/database/connect.js/entities[39m
-[[32minfo[39m] 2024-03-05 22:51:40 [32mdatabase connection successful[39m
-[[32minfo[39m] 2024-03-05 22:51:46 [32mserver run in http://localhost:3000[39m
-[[33mwarn[39m] 2024-03-05 22:51:46 [33m/home/dante/Documentos/Projects/vars/backend/src/libs/database/connect.js/entities[39m
-[[32minfo[39m] 2024-03-05 22:51:46 [32mdatabase connection successful[39m
-[[33mwarn[39m] 2024-03-05 22:51:46 [33mit will retry connecting to the database[39m
-[[33mwarn[39m] 2024-03-05 22:51:46 [33mENOTDIR: not a directory, scandir '/home/dante/Documentos/Projects/vars/backend/src/libs/database/connect.js/entities'[39m
-[[33mwarn[39m] 2024-03-05 22:51:46 [33m/home/dante/Documentos/Projects/vars/backend/src/libs/database/connect.js/entities[39m
-[[32minfo[39m] 2024-03-05 22:51:46 [32mdatabase connection successful[39m
-[[33mwarn[39m] 2024-03-05 22:51:46 [33mit will retry connecting to the database[39m
-[[33mwarn[39m] 2024-03-05 22:51:46 [33mENOTDIR: not a directory, scandir '/home/dante/Documentos/Projects/vars/backend/src/libs/database/connect.js/entities'[39m
-[[33mwarn[39m] 2024-03-05 22:51:46 [33m/home/dante/Documentos/Projects/vars/backend/src/libs/database/connect.js/entities[39m
-[[32minfo[39m] 2024-03-05 22:51:46 [32mdatabase connection successful[39m
-[[33mwarn[39m] 2024-03-05 22:51:46 [33mit will retry connecting to the database[39m
-[[33mwarn[39m] 2024-03-05 22:51:46 [33mENOTDIR: not a directory, scandir '/home/dante/Documentos/Projects/vars/backend/src/libs/database/connect.js/entities'[39m
-[[33mwarn[39m] 2024-03-05 22:51:46 [33m/home/dante/Documentos/Projects/vars/backend/src/libs/database/connect.js/entities[39m
-[[32minfo[39m] 2024-03-05 22:51:46 [32mdatabase connection successful[39m
-[[32minfo[39m] 2024-03-05 22:51:55 [32mserver run in http://localhost:3000[39m
-[[33mwarn[39m] 2024-03-05 22:51:55 [33m/home/dante/Documentos/Projects/vars/backend/src/libs/database/connect.js/entities[39m
-[[32minfo[39m] 2024-03-05 22:51:55 [32mdatabase connection successful[39m
-[[33mwarn[39m] 2024-03-05 22:51:55 [33mit will retry connecting to the database[39m
-[[33mwarn[39m] 2024-03-05 22:51:55 [33mENOTDIR: not a directory, scandir '/home/dante/Documentos/Projects/vars/backend/src/libs/database/connect.js/entities'[39m
-[[33mwarn[39m] 2024-03-05 22:51:55 [33m/home/dante/Documentos/Projects/vars/backend/src/libs/database/connect.js/entities[39m
-[[32minfo[39m] 2024-03-05 22:51:55 [32mdatabase connection successful[39m
-[[33mwarn[39m] 2024-03-05 22:51:55 [33mit will retry connecting to the database[39m
-[[33mwarn[39m] 2024-03-05 22:51:55 [33mENOTDIR: not a directory, scandir '/home/dante/Documentos/Projects/vars/backend/src/libs/database/connect.js/entities'[39m
-[[33mwarn[39m] 2024-03-05 22:51:55 [33m/home/dante/Documentos/Projects/vars/backend/src/libs/database/connect.js/entities[39m
-[[32minfo[39m] 2024-03-05 22:51:55 [32mdatabase connection successful[39m
-[[33mwarn[39m] 2024-03-05 22:51:55 [33mit will retry connecting to the database[39m
-[[33mwarn[39m] 2024-03-05 22:51:55 [33mENOTDIR: not a directory, scandir '/home/dante/Documentos/Projects/vars/backend/src/libs/database/connect.js/entities'[39m
-[[33mwarn[39m] 2024-03-05 22:51:55 [33m/home/dante/Documentos/Projects/vars/backend/src/libs/database/connect.js/entities[39m
-[[32minfo[39m] 2024-03-05 22:51:55 [32mdatabase connection successful[39m
-[[32minfo[39m] 2024-03-05 22:55:48 [32mserver run in http://localhost:3000[39m
-[[33mwarn[39m] 2024-03-05 22:55:48 [33m/home/dante/Documentos/Projects/vars/backend/src/libs/database/entities[39m
-[[32minfo[39m] 2024-03-05 22:55:48 [32mdatabase connection successful[39m
-[[33mwarn[39m] 2024-03-05 22:55:48 [33m[ 'user.js' ][39m
-[[32minfo[39m] 2024-03-05 22:55:48 [32mholis[39m
-[[32minfo[39m] 2024-03-05 22:56:20 [32mserver run in http://localhost:3000[39m
-[[32minfo[39m] 2024-03-05 22:56:20 [32mdatabase connection successful[39m
-[[33mwarn[39m] 2024-03-05 22:56:20 [33m[ 'user.js' ][39m
-[[32minfo[39m] 2024-03-05 22:56:20 [32mholis[39m
-[[32minfo[39m] 2024-03-05 22:56:36 [32mserver run in http://localhost:3000[39m
-[[32minfo[39m] 2024-03-05 22:56:36 [32mdatabase connection successful[39m
-[[33mwarn[39m] 2024-03-05 22:56:36 [33m[ 'user.js' ][39m
-[[32minfo[39m] 2024-03-05 22:58:31 [32mserver run in http://localhost:3000[39m
-[[32minfo[39m] 2024-03-05 22:58:31 [32mdatabase connection successful[39m
-[[32minfo[39m] 2024-03-05 22:59:01 [32mserver run in http://localhost:3000[39m
-[[32minfo[39m] 2024-03-05 22:59:01 [32mdatabase connection successful[39m
-[[32minfo[39m] 2024-03-05 22:59:57 [32mserver run in http://localhost:3000[39m
-[[32minfo[39m] 2024-03-05 22:59:57 [32mdatabase connection successful[39m
-[[32minfo[39m] 2024-03-05 23:00:51 [32mserver run in http://localhost:3000[39m
-[[32minfo[39m] 2024-03-05 23:00:51 [32mdatabase connection successful[39m
-[[32minfo[39m] 2024-03-05 23:01:23 [32mserver run in http://localhost:3000[39m
-[[32minfo[39m] 2024-03-05 23:01:23 [32mdatabase connection successful[39m
-[[32minfo[39m] 2024-03-05 23:05:03 [32mserver run in http://localhost:3000[39m
-[[32minfo[39m] 2024-03-05 23:05:03 [32mdatabase connection successful[39m
-[[32minfo[39m] 2024-03-05 23:06:39 [32mserver run in http://localhost:3000[39m
-[[32minfo[39m] 2024-03-05 23:06:39 [32mdatabase connection successful[39m
-[[32minfo[39m] 2024-03-05 23:07:12 [32mserver run in http://localhost:3000[39m
-[[32minfo[39m] 2024-03-05 23:07:12 [32mdatabase connection successful[39m
-[[32minfo[39m] 2024-03-05 23:09:26 [32mserver run in http://localhost:3000[39m
-[[32minfo[39m] 2024-03-05 23:09:26 [32mdatabase connection successful[39m
-[[32minfo[39m] 2024-03-05 23:09:37 [32mserver run in http://localhost:3000[39m
-[[32minfo[39m] 2024-03-05 23:09:37 [32mdatabase connection successful[39m
-[[32minfo[39m] 2024-03-05 23:09:42 [32mserver run in http://localhost:3000[39m
-[[32minfo[39m] 2024-03-05 23:09:42 [32mdatabase connection successful[39m
-[[32minfo[39m] 2024-03-05 23:09:47 [32mserver run in http://localhost:3000[39m
-[[32minfo[39m] 2024-03-05 23:09:47 [32mdatabase connection successful[39m
-[[32minfo[39m] 2024-03-05 23:10:05 [32mserver run in http://localhost:3000[39m
-[[32minfo[39m] 2024-03-05 23:10:05 [32mdatabase connection successful[39m
-[[32minfo[39m] 2024-03-05 23:15:30 [32mserver run in http://localhost:3000[39m
-[[32minfo[39m] 2024-03-05 23:15:30 [32mdatabase connection successful[39m
-[[32minfo[39m] 2024-03-05 23:15:37 [32mserver run in http://localhost:3000[39m
-[[32minfo[39m] 2024-03-05 23:15:37 [32mdatabase connection successful[39m
-[[32minfo[39m] 2024-03-05 23:16:37 [32mserver run in http://localhost:3000[39m
-[[32minfo[39m] 2024-03-05 23:16:37 [32mdatabase connection successful[39m
-[[32minfo[39m] 2024-03-05 23:16:46 [32mserver run in http://localhost:3000[39m
-[[32minfo[39m] 2024-03-05 23:16:46 [32mdatabase connection successful[39m
-[[33mwarn[39m] 2024-03-05 23:16:46 [33mit will retry connecting to the database[39m
-[[33mwarn[39m] 2024-03-05 23:16:46 [33mSchema hasn't been registered for model "undefined".[39m
-[33mUse mongoose.model(name, schema)[39m
-[[32minfo[39m] 2024-03-05 23:16:46 [32mdatabase connection successful[39m
-[[33mwarn[39m] 2024-03-05 23:16:46 [33mit will retry connecting to the database[39m
-[[33mwarn[39m] 2024-03-05 23:16:46 [33mSchema hasn't been registered for model "undefined".[39m
-[33mUse mongoose.model(name, schema)[39m
-[[32minfo[39m] 2024-03-05 23:16:46 [32mdatabase connection successful[39m
-[[33mwarn[39m] 2024-03-05 23:16:46 [33mit will retry connecting to the database[39m
-[[33mwarn[39m] 2024-03-05 23:16:46 [33mSchema hasn't been registered for model "undefined".[39m
-[33mUse mongoose.model(name, schema)[39m
-[[32minfo[39m] 2024-03-05 23:16:46 [32mdatabase connection successful[39m
-[[32minfo[39m] 2024-03-05 23:17:27 [32mserver run in http://localhost:3000[39m
-[[32minfo[39m] 2024-03-05 23:17:27 [32mdatabase connection successful[39m
-[[33mwarn[39m] 2024-03-05 23:17:27 [33mit will retry connecting to the database[39m
-[[33mwarn[39m] 2024-03-05 23:17:27 [33mSchema hasn't been registered for model "undefined".[39m
-[33mUse mongoose.model(name, schema)[39m
-[[32minfo[39m] 2024-03-05 23:17:27 [32mdatabase connection successful[39m
-[[33mwarn[39m] 2024-03-05 23:17:27 [33mit will retry connecting to the database[39m
-[[33mwarn[39m] 2024-03-05 23:17:27 [33mSchema hasn't been registered for model "undefined".[39m
-[33mUse mongoose.model(name, schema)[39m
-[[32minfo[39m] 2024-03-05 23:17:27 [32mdatabase connection successful[39m
-[[33mwarn[39m] 2024-03-05 23:17:27 [33mit will retry connecting to the database[39m
-[[33mwarn[39m] 2024-03-05 23:17:27 [33mSchema hasn't been registered for model "undefined".[39m
-[33mUse mongoose.model(name, schema)[39m
-[[32minfo[39m] 2024-03-05 23:17:27 [32mdatabase connection successful[39m
-[[32minfo[39m] 2024-03-05 23:18:13 [32mserver run in http://localhost:3000[39m
-[[32minfo[39m] 2024-03-05 23:18:13 [32mdatabase connection successful[39m
-[[33mwarn[39m] 2024-03-05 23:18:13 [33mit will retry connecting to the database[39m
-[[33mwarn[39m] 2024-03-05 23:18:13 [33mSchema hasn't been registered for model "undefined".[39m
-[33mUse mongoose.model(name, schema)[39m
-[[32minfo[39m] 2024-03-05 23:18:13 [32mdatabase connection successful[39m
-[[33mwarn[39m] 2024-03-05 23:18:13 [33mit will retry connecting to the database[39m
-[[33mwarn[39m] 2024-03-05 23:18:13 [33mSchema hasn't been registered for model "undefined".[39m
-[33mUse mongoose.model(name, schema)[39m
-[[32minfo[39m] 2024-03-05 23:18:13 [32mdatabase connection successful[39m
-[[33mwarn[39m] 2024-03-05 23:18:13 [33mit will retry connecting to the database[39m
-[[33mwarn[39m] 2024-03-05 23:18:13 [33mSchema hasn't been registered for model "undefined".[39m
-[33mUse mongoose.model(name, schema)[39m
-[[32minfo[39m] 2024-03-05 23:18:13 [32mdatabase connection successful[39m
-[[32minfo[39m] 2024-03-05 23:18:58 [32mserver run in http://localhost:3000[39m
-[[32minfo[39m] 2024-03-05 23:18:58 [32mdatabase connection successful[39m
-[[33mwarn[39m] 2024-03-05 23:18:58 [33mit will retry connecting to the database[39m
-[[33mwarn[39m] 2024-03-05 23:18:58 [33mSchema hasn't been registered for model "undefined".[39m
-[33mUse mongoose.model(name, schema)[39m
-[[32minfo[39m] 2024-03-05 23:18:58 [32mdatabase connection successful[39m
-[[33mwarn[39m] 2024-03-05 23:18:58 [33mit will retry connecting to the database[39m
-[[33mwarn[39m] 2024-03-05 23:18:58 [33mSchema hasn't been registered for model "undefined".[39m
-[33mUse mongoose.model(name, schema)[39m
-[[32minfo[39m] 2024-03-05 23:18:58 [32mdatabase connection successful[39m
-[[33mwarn[39m] 2024-03-05 23:18:58 [33mit will retry connecting to the database[39m
-[[33mwarn[39m] 2024-03-05 23:18:58 [33mSchema hasn't been registered for model "undefined".[39m
-[33mUse mongoose.model(name, schema)[39m
-[[32minfo[39m] 2024-03-05 23:18:58 [32mdatabase connection successful[39m
-[[32minfo[39m] 2024-03-05 23:19:46 [32mserver run in http://localhost:3000[39m
-[[32minfo[39m] 2024-03-05 23:19:46 [32mdatabase connection successful[39m
-[[33mwarn[39m] 2024-03-05 23:19:46 [33mit will retry connecting to the database[39m
-[[33mwarn[39m] 2024-03-05 23:19:46 [33mSchema hasn't been registered for model "undefined".[39m
-[33mUse mongoose.model(name, schema)[39m
-[[32minfo[39m] 2024-03-05 23:19:46 [32mdatabase connection successful[39m
-[[33mwarn[39m] 2024-03-05 23:19:46 [33mit will retry connecting to the database[39m
-[[33mwarn[39m] 2024-03-05 23:19:46 [33mSchema hasn't been registered for model "undefined".[39m
-[33mUse mongoose.model(name, schema)[39m
-[[32minfo[39m] 2024-03-05 23:19:46 [32mdatabase connection successful[39m
-[[33mwarn[39m] 2024-03-05 23:19:46 [33mit will retry connecting to the database[39m
-[[33mwarn[39m] 2024-03-05 23:19:46 [33mSchema hasn't been registered for model "undefined".[39m
-[33mUse mongoose.model(name, schema)[39m
-[[32minfo[39m] 2024-03-05 23:19:46 [32mdatabase connection successful[39m
-[[32minfo[39m] 2024-03-05 23:20:09 [32mserver run in http://localhost:3000[39m
-[[32minfo[39m] 2024-03-05 23:20:09 [32mdatabase connection successful[39m
-[[33mwarn[39m] 2024-03-05 23:20:09 [33mit will retry connecting to the database[39m
-[[33mwarn[39m] 2024-03-05 23:20:09 [33mSchema hasn't been registered for model "undefined".[39m
-[33mUse mongoose.model(name, schema)[39m
-[[32minfo[39m] 2024-03-05 23:20:09 [32mdatabase connection successful[39m
-[[33mwarn[39m] 2024-03-05 23:20:09 [33mit will retry connecting to the database[39m
-[[33mwarn[39m] 2024-03-05 23:20:09 [33mSchema hasn't been registered for model "undefined".[39m
-[33mUse mongoose.model(name, schema)[39m
-[[32minfo[39m] 2024-03-05 23:20:09 [32mdatabase connection successful[39m
-[[33mwarn[39m] 2024-03-05 23:20:09 [33mit will retry connecting to the database[39m
-[[33mwarn[39m] 2024-03-05 23:20:09 [33mSchema hasn't been registered for model "undefined".[39m
-[33mUse mongoose.model(name, schema)[39m
-[[32minfo[39m] 2024-03-05 23:20:09 [32mdatabase connection successful[39m
-[[32minfo[39m] 2024-03-05 23:20:11 [32mserver run in http://localhost:3000[39m
-[[32minfo[39m] 2024-03-05 23:20:11 [32mdatabase connection successful[39m
-[[33mwarn[39m] 2024-03-05 23:20:11 [33mit will retry connecting to the database[39m
-[[33mwarn[39m] 2024-03-05 23:20:11 [33mSchema hasn't been registered for model "undefined".[39m
-[33mUse mongoose.model(name, schema)[39m
-[[32minfo[39m] 2024-03-05 23:20:11 [32mdatabase connection successful[39m
-[[33mwarn[39m] 2024-03-05 23:20:11 [33mit will retry connecting to the database[39m
-[[33mwarn[39m] 2024-03-05 23:20:11 [33mSchema hasn't been registered for model "undefined".[39m
-[33mUse mongoose.model(name, schema)[39m
-[[32minfo[39m] 2024-03-05 23:20:11 [32mdatabase connection successful[39m
-[[33mwarn[39m] 2024-03-05 23:20:11 [33mit will retry connecting to the database[39m
-[[33mwarn[39m] 2024-03-05 23:20:11 [33mSchema hasn't been registered for model "undefined".[39m
-[33mUse mongoose.model(name, schema)[39m
-[[32minfo[39m] 2024-03-05 23:20:11 [32mdatabase connection successful[39m
-[[32minfo[39m] 2024-03-05 23:20:44 [32mserver run in http://localhost:3000[39m
-[[32minfo[39m] 2024-03-05 23:20:44 [32mdatabase connection successful[39m
-[[33mwarn[39m] 2024-03-05 23:20:44 [33mit will retry connecting to the database[39m
-[[33mwarn[39m] 2024-03-05 23:20:44 [33mSchema hasn't been registered for model "undefined".[39m
-[33mUse mongoose.model(name, schema)[39m
-[[32minfo[39m] 2024-03-05 23:20:44 [32mdatabase connection successful[39m
-[[33mwarn[39m] 2024-03-05 23:20:44 [33mit will retry connecting to the database[39m
-[[33mwarn[39m] 2024-03-05 23:20:44 [33mSchema hasn't been registered for model "undefined".[39m
-[33mUse mongoose.model(name, schema)[39m
-[[32minfo[39m] 2024-03-05 23:20:44 [32mdatabase connection successful[39m
-[[33mwarn[39m] 2024-03-05 23:20:44 [33mit will retry connecting to the database[39m
-[[33mwarn[39m] 2024-03-05 23:20:44 [33mSchema hasn't been registered for model "undefined".[39m
-[33mUse mongoose.model(name, schema)[39m
-[[32minfo[39m] 2024-03-05 23:20:44 [32mdatabase connection successful[39m
-[[32minfo[39m] 2024-03-05 23:20:57 [32mserver run in http://localhost:3000[39m
-[[32minfo[39m] 2024-03-05 23:20:57 [32mdatabase connection successful[39m
-[[33mwarn[39m] 2024-03-05 23:20:57 [33mit will retry connecting to the database[39m
-[[33mwarn[39m] 2024-03-05 23:20:57 [33mSchema hasn't been registered for model "undefined".[39m
-[33mUse mongoose.model(name, schema)[39m
-[[32minfo[39m] 2024-03-05 23:20:57 [32mdatabase connection successful[39m
-[[33mwarn[39m] 2024-03-05 23:20:57 [33mit will retry connecting to the database[39m
-[[33mwarn[39m] 2024-03-05 23:20:57 [33mSchema hasn't been registered for model "undefined".[39m
-[33mUse mongoose.model(name, schema)[39m
-[[32minfo[39m] 2024-03-05 23:20:57 [32mdatabase connection successful[39m
-[[33mwarn[39m] 2024-03-05 23:20:57 [33mit will retry connecting to the database[39m
-[[33mwarn[39m] 2024-03-05 23:20:57 [33mSchema hasn't been registered for model "undefined".[39m
-[33mUse mongoose.model(name, schema)[39m
-[[32minfo[39m] 2024-03-05 23:20:57 [32mdatabase connection successful[39m
-[[32minfo[39m] 2024-03-05 23:21:32 [32mserver run in http://localhost:3000[39m
-[[32minfo[39m] 2024-03-05 23:21:32 [32mdatabase connection successful[39m
-[[33mwarn[39m] 2024-03-05 23:21:32 [33mit will retry connecting to the database[39m
-[[33mwarn[39m] 2024-03-05 23:21:32 [33mSchema hasn't been registered for model "undefined".[39m
-[33mUse mongoose.model(name, schema)[39m
-[[32minfo[39m] 2024-03-05 23:21:32 [32mdatabase connection successful[39m
-[[33mwarn[39m] 2024-03-05 23:21:32 [33mit will retry connecting to the database[39m
-[[33mwarn[39m] 2024-03-05 23:21:32 [33mSchema hasn't been registered for model "undefined".[39m
-[33mUse mongoose.model(name, schema)[39m
-[[32minfo[39m] 2024-03-05 23:21:32 [32mdatabase connection successful[39m
-[[33mwarn[39m] 2024-03-05 23:21:32 [33mit will retry connecting to the database[39m
-[[33mwarn[39m] 2024-03-05 23:21:32 [33mSchema hasn't been registered for model "undefined".[39m
-[33mUse mongoose.model(name, schema)[39m
-[[32minfo[39m] 2024-03-05 23:21:32 [32mdatabase connection successful[39m
-[[32minfo[39m] 2024-03-05 23:21:47 [32mserver run in http://localhost:3000[39m
-[[32minfo[39m] 2024-03-05 23:21:47 [32mdatabase connection successful[39m
-[[33mwarn[39m] 2024-03-05 23:21:47 [33mit will retry connecting to the database[39m
-[[33mwarn[39m] 2024-03-05 23:21:47 [33mname is not defined[39m
-[[32minfo[39m] 2024-03-05 23:21:47 [32mdatabase connection successful[39m
-[[33mwarn[39m] 2024-03-05 23:21:47 [33mit will retry connecting to the database[39m
-[[33mwarn[39m] 2024-03-05 23:21:47 [33mname is not defined[39m
-[[32minfo[39m] 2024-03-05 23:21:47 [32mdatabase connection successful[39m
-[[33mwarn[39m] 2024-03-05 23:21:47 [33mit will retry connecting to the database[39m
-[[33mwarn[39m] 2024-03-05 23:21:47 [33mname is not defined[39m
-[[32minfo[39m] 2024-03-05 23:21:47 [32mdatabase connection successful[39m
-[[32minfo[39m] 2024-03-05 23:21:53 [32mserver run in http://localhost:3000[39m
-[[32minfo[39m] 2024-03-05 23:21:53 [32mdatabase connection successful[39m
-[[33mwarn[39m] 2024-03-05 23:21:53 [33mit will retry connecting to the database[39m
-[[33mwarn[39m] 2024-03-05 23:21:53 [33mname is not defined[39m
-[[32minfo[39m] 2024-03-05 23:21:53 [32mdatabase connection successful[39m
-[[33mwarn[39m] 2024-03-05 23:21:53 [33mit will retry connecting to the database[39m
-[[33mwarn[39m] 2024-03-05 23:21:53 [33mname is not defined[39m
-[[32minfo[39m] 2024-03-05 23:21:53 [32mdatabase connection successful[39m
-[[33mwarn[39m] 2024-03-05 23:21:53 [33mit will retry connecting to the database[39m
-[[33mwarn[39m] 2024-03-05 23:21:53 [33mname is not defined[39m
-[[32minfo[39m] 2024-03-05 23:21:53 [32mdatabase connection successful[39m
-[[32minfo[39m] 2024-03-05 23:21:58 [32mserver run in http://localhost:3000[39m
-[[32minfo[39m] 2024-03-05 23:21:58 [32mdatabase connection successful[39m
-[[33mwarn[39m] 2024-03-05 23:21:58 [33mit will retry connecting to the database[39m
-[[33mwarn[39m] 2024-03-05 23:21:58 [33mname is not defined[39m
-[[32minfo[39m] 2024-03-05 23:21:58 [32mdatabase connection successful[39m
-[[33mwarn[39m] 2024-03-05 23:21:58 [33mit will retry connecting to the database[39m
-[[33mwarn[39m] 2024-03-05 23:21:58 [33mname is not defined[39m
-[[32minfo[39m] 2024-03-05 23:21:58 [32mdatabase connection successful[39m
-[[33mwarn[39m] 2024-03-05 23:21:58 [33mit will retry connecting to the database[39m
-[[33mwarn[39m] 2024-03-05 23:21:58 [33mname is not defined[39m
-[[32minfo[39m] 2024-03-05 23:21:58 [32mdatabase connection successful[39m
-[[32minfo[39m] 2024-03-05 23:22:03 [32mserver run in http://localhost:3000[39m
-[[32minfo[39m] 2024-03-05 23:22:04 [32mdatabase connection successful[39m
-[[33mwarn[39m] 2024-03-05 23:22:04 [33mit will retry connecting to the database[39m
-[[33mwarn[39m] 2024-03-05 23:22:04 [33mname is not defined[39m
-[[32minfo[39m] 2024-03-05 23:22:04 [32mdatabase connection successful[39m
-[[33mwarn[39m] 2024-03-05 23:22:04 [33mit will retry connecting to the database[39m
-[[33mwarn[39m] 2024-03-05 23:22:04 [33mname is not defined[39m
-[[32minfo[39m] 2024-03-05 23:22:04 [32mdatabase connection successful[39m
-[[33mwarn[39m] 2024-03-05 23:22:04 [33mit will retry connecting to the database[39m
-[[33mwarn[39m] 2024-03-05 23:22:04 [33mname is not defined[39m
-[[32minfo[39m] 2024-03-05 23:22:04 [32mdatabase connection successful[39m
-[[32minfo[39m] 2024-03-05 23:22:13 [32mserver run in http://localhost:3000[39m
-[[32minfo[39m] 2024-03-05 23:22:13 [32mdatabase connection successful[39m
-[[33mwarn[39m] 2024-03-05 23:22:13 [33mit will retry connecting to the database[39m
-[[33mwarn[39m] 2024-03-05 23:22:13 [33mSchema hasn't been registered for model "undefined".[39m
-[33mUse mongoose.model(name, schema)[39m
-[[32minfo[39m] 2024-03-05 23:22:13 [32mdatabase connection successful[39m
-[[33mwarn[39m] 2024-03-05 23:22:13 [33mit will retry connecting to the database[39m
-[[33mwarn[39m] 2024-03-05 23:22:13 [33mSchema hasn't been registered for model "undefined".[39m
-[33mUse mongoose.model(name, schema)[39m
-[[32minfo[39m] 2024-03-05 23:22:13 [32mdatabase connection successful[39m
-[[33mwarn[39m] 2024-03-05 23:22:13 [33mit will retry connecting to the database[39m
-[[33mwarn[39m] 2024-03-05 23:22:13 [33mSchema hasn't been registered for model "undefined".[39m
-[33mUse mongoose.model(name, schema)[39m
-[[32minfo[39m] 2024-03-05 23:22:13 [32mdatabase connection successful[39m
-[[32minfo[39m] 2024-03-05 23:22:18 [32mserver run in http://localhost:3000[39m
-[[32minfo[39m] 2024-03-05 23:22:18 [32mdatabase connection successful[39m
-[[33mwarn[39m] 2024-03-05 23:22:18 [33mit will retry connecting to the database[39m
-[[33mwarn[39m] 2024-03-05 23:22:18 [33mSchema hasn't been registered for model "undefined".[39m
-[33mUse mongoose.model(name, schema)[39m
-[[32minfo[39m] 2024-03-05 23:22:18 [32mdatabase connection successful[39m
-[[33mwarn[39m] 2024-03-05 23:22:18 [33mit will retry connecting to the database[39m
-[[33mwarn[39m] 2024-03-05 23:22:18 [33mSchema hasn't been registered for model "undefined".[39m
-[33mUse mongoose.model(name, schema)[39m
-[[32minfo[39m] 2024-03-05 23:22:18 [32mdatabase connection successful[39m
-[[33mwarn[39m] 2024-03-05 23:22:18 [33mit will retry connecting to the database[39m
-[[33mwarn[39m] 2024-03-05 23:22:18 [33mSchema hasn't been registered for model "undefined".[39m
-[33mUse mongoose.model(name, schema)[39m
-[[32minfo[39m] 2024-03-05 23:22:18 [32mdatabase connection successful[39m
-[[32minfo[39m] 2024-03-05 23:22:33 [32mserver run in http://localhost:3000[39m
-[[32minfo[39m] 2024-03-05 23:22:33 [32mdatabase connection successful[39m
-[[33mwarn[39m] 2024-03-05 23:22:33 [33mit will retry connecting to the database[39m
-[[33mwarn[39m] 2024-03-05 23:22:33 [33mSchema hasn't been registered for model "undefined".[39m
-[33mUse mongoose.model(name, schema)[39m
-[[32minfo[39m] 2024-03-05 23:22:33 [32mdatabase connection successful[39m
-[[33mwarn[39m] 2024-03-05 23:22:33 [33mit will retry connecting to the database[39m
-[[33mwarn[39m] 2024-03-05 23:22:33 [33mSchema hasn't been registered for model "undefined".[39m
-[33mUse mongoose.model(name, schema)[39m
-[[32minfo[39m] 2024-03-05 23:22:33 [32mdatabase connection successful[39m
-[[33mwarn[39m] 2024-03-05 23:22:33 [33mit will retry connecting to the database[39m
-[[33mwarn[39m] 2024-03-05 23:22:33 [33mSchema hasn't been registered for model "undefined".[39m
-[33mUse mongoose.model(name, schema)[39m
-[[32minfo[39m] 2024-03-05 23:22:33 [32mdatabase connection successful[39m
-[[32minfo[39m] 2024-03-05 23:23:10 [32mserver run in http://localhost:3000[39m
-[[32minfo[39m] 2024-03-05 23:23:10 [32mdatabase connection successful[39m
-[[33mwarn[39m] 2024-03-05 23:23:10 [33mit will retry connecting to the database[39m
-[[33mwarn[39m] 2024-03-05 23:23:10 [33mSchema hasn't been registered for model "undefined".[39m
-[33mUse mongoose.model(name, schema)[39m
-[[32minfo[39m] 2024-03-05 23:23:10 [32mdatabase connection successful[39m
-[[33mwarn[39m] 2024-03-05 23:23:10 [33mit will retry connecting to the database[39m
-[[33mwarn[39m] 2024-03-05 23:23:10 [33mSchema hasn't been registered for model "undefined".[39m
-[33mUse mongoose.model(name, schema)[39m
-[[32minfo[39m] 2024-03-05 23:23:10 [32mdatabase connection successful[39m
-[[33mwarn[39m] 2024-03-05 23:23:10 [33mit will retry connecting to the database[39m
-[[33mwarn[39m] 2024-03-05 23:23:10 [33mSchema hasn't been registered for model "undefined".[39m
-[33mUse mongoose.model(name, schema)[39m
-[[32minfo[39m] 2024-03-05 23:23:10 [32mdatabase connection successful[39m
-[[32minfo[39m] 2024-03-05 23:23:57 [32mserver run in http://localhost:3000[39m
-[[32minfo[39m] 2024-03-05 23:23:57 [32mdatabase connection successful[39m
-[[33mwarn[39m] 2024-03-05 23:23:57 [33mit will retry connecting to the database[39m
-[[33mwarn[39m] 2024-03-05 23:23:57 [33mSchema hasn't been registered for model "undefined".[39m
-[33mUse mongoose.model(name, schema)[39m
-[[32minfo[39m] 2024-03-05 23:23:57 [32mdatabase connection successful[39m
-[[33mwarn[39m] 2024-03-05 23:23:57 [33mit will retry connecting to the database[39m
-[[33mwarn[39m] 2024-03-05 23:23:57 [33mSchema hasn't been registered for model "undefined".[39m
-[33mUse mongoose.model(name, schema)[39m
-[[32minfo[39m] 2024-03-05 23:23:57 [32mdatabase connection successful[39m
-[[33mwarn[39m] 2024-03-05 23:23:57 [33mit will retry connecting to the database[39m
-[[33mwarn[39m] 2024-03-05 23:23:57 [33mSchema hasn't been registered for model "undefined".[39m
-[33mUse mongoose.model(name, schema)[39m
-[[32minfo[39m] 2024-03-05 23:23:57 [32mdatabase connection successful[39m
-[[32minfo[39m] 2024-03-05 23:25:08 [32mserver run in http://localhost:3000[39m
-[[32minfo[39m] 2024-03-05 23:25:08 [32mdatabase connection successful[39m
-[[33mwarn[39m] 2024-03-05 23:25:08 [33mit will retry connecting to the database[39m
-[[33mwarn[39m] 2024-03-05 23:25:08 [33mSchema hasn't been registered for model "undefined".[39m
-[33mUse mongoose.model(name, schema)[39m
-[[32minfo[39m] 2024-03-05 23:25:08 [32mdatabase connection successful[39m
-[[33mwarn[39m] 2024-03-05 23:25:08 [33mit will retry connecting to the database[39m
-[[33mwarn[39m] 2024-03-05 23:25:08 [33mSchema hasn't been registered for model "undefined".[39m
-[33mUse mongoose.model(name, schema)[39m
-[[32minfo[39m] 2024-03-05 23:25:08 [32mdatabase connection successful[39m
-[[33mwarn[39m] 2024-03-05 23:25:08 [33mit will retry connecting to the database[39m
-[[33mwarn[39m] 2024-03-05 23:25:08 [33mSchema hasn't been registered for model "undefined".[39m
-[33mUse mongoose.model(name, schema)[39m
-[[32minfo[39m] 2024-03-05 23:25:08 [32mdatabase connection successful[39m
-[[32minfo[39m] 2024-03-05 23:25:21 [32mserver run in http://localhost:3000[39m
-[[32minfo[39m] 2024-03-05 23:25:21 [32mdatabase connection successful[39m
-[[33mwarn[39m] 2024-03-05 23:25:21 [33mit will retry connecting to the database[39m
-[[33mwarn[39m] 2024-03-05 23:25:21 [33mSchema hasn't been registered for model "undefined".[39m
-[33mUse mongoose.model(name, schema)[39m
-[[32minfo[39m] 2024-03-05 23:25:21 [32mdatabase connection successful[39m
-[[33mwarn[39m] 2024-03-05 23:25:21 [33mit will retry connecting to the database[39m
-[[33mwarn[39m] 2024-03-05 23:25:21 [33mSchema hasn't been registered for model "undefined".[39m
-[33mUse mongoose.model(name, schema)[39m
-[[32minfo[39m] 2024-03-05 23:25:21 [32mdatabase connection successful[39m
-[[33mwarn[39m] 2024-03-05 23:25:21 [33mit will retry connecting to the database[39m
-[[33mwarn[39m] 2024-03-05 23:25:21 [33mSchema hasn't been registered for model "undefined".[39m
-[33mUse mongoose.model(name, schema)[39m
-[[32minfo[39m] 2024-03-05 23:25:21 [32mdatabase connection successful[39m
-[[32minfo[39m] 2024-03-05 23:29:35 [32mserver run in http://localhost:3000[39m
-[[32minfo[39m] 2024-03-05 23:29:35 [32mdatabase connection successful[39m
-[[33mwarn[39m] 2024-03-05 23:29:35 [33mit will retry connecting to the database[39m
-[[33mwarn[39m] 2024-03-05 23:29:35 [33mSchema hasn't been registered for model "undefined".[39m
-[33mUse mongoose.model(name, schema)[39m
-[[32minfo[39m] 2024-03-05 23:29:35 [32mdatabase connection successful[39m
-[[33mwarn[39m] 2024-03-05 23:29:35 [33mit will retry connecting to the database[39m
-[[33mwarn[39m] 2024-03-05 23:29:35 [33mSchema hasn't been registered for model "undefined".[39m
-[33mUse mongoose.model(name, schema)[39m
-[[32minfo[39m] 2024-03-05 23:29:35 [32mdatabase connection successful[39m
-[[33mwarn[39m] 2024-03-05 23:29:35 [33mit will retry connecting to the database[39m
-[[33mwarn[39m] 2024-03-05 23:29:35 [33mSchema hasn't been registered for model "undefined".[39m
-[33mUse mongoose.model(name, schema)[39m
-[[32minfo[39m] 2024-03-05 23:29:35 [32mdatabase connection successful[39m
-[[32minfo[39m] 2024-03-05 23:30:07 [32mserver run in http://localhost:3000[39m
-[[32minfo[39m] 2024-03-05 23:30:07 [32mdatabase connection successful[39m
-[[33mwarn[39m] 2024-03-05 23:30:07 [33mit will retry connecting to the database[39m
-[[33mwarn[39m] 2024-03-05 23:30:07 [33mSchema hasn't been registered for model "undefined".[39m
-[33mUse mongoose.model(name, schema)[39m
-[[32minfo[39m] 2024-03-05 23:30:07 [32mdatabase connection successful[39m
-[[33mwarn[39m] 2024-03-05 23:30:07 [33mit will retry connecting to the database[39m
-[[33mwarn[39m] 2024-03-05 23:30:07 [33mSchema hasn't been registered for model "undefined".[39m
-[33mUse mongoose.model(name, schema)[39m
-[[32minfo[39m] 2024-03-05 23:30:07 [32mdatabase connection successful[39m
-[[33mwarn[39m] 2024-03-05 23:30:07 [33mit will retry connecting to the database[39m
-[[33mwarn[39m] 2024-03-05 23:30:07 [33mSchema hasn't been registered for model "undefined".[39m
-[33mUse mongoose.model(name, schema)[39m
-[[32minfo[39m] 2024-03-05 23:30:07 [32mdatabase connection successful[39m
-[[32minfo[39m] 2024-03-05 23:30:29 [32mserver run in http://localhost:3000[39m
-[[32minfo[39m] 2024-03-05 23:30:30 [32mdatabase connection successful[39m
-[[31merror[39m] 2024-03-05 23:30:30 [31muncaugth exception: MissingSchemaError: Schema hasn't been registered for model "undefined".[39m
-[31mUse mongoose.model(name, schema)[39m
-[[32minfo[39m] 2024-03-05 23:30:49 [32mserver run in http://localhost:3000[39m
-[[32minfo[39m] 2024-03-05 23:30:49 [32mdatabase connection successful[39m
-[[33mwarn[39m] 2024-03-05 23:30:49 [33mit will retry connecting to the database[39m
-[[33mwarn[39m] 2024-03-05 23:30:49 [33mSchema hasn't been registered for model "undefined".[39m
-[33mUse mongoose.model(name, schema)[39m
-[[32minfo[39m] 2024-03-05 23:30:49 [32mdatabase connection successful[39m
-[[33mwarn[39m] 2024-03-05 23:30:49 [33mit will retry connecting to the database[39m
-[[33mwarn[39m] 2024-03-05 23:30:49 [33mSchema hasn't been registered for model "undefined".[39m
-[33mUse mongoose.model(name, schema)[39m
-[[32minfo[39m] 2024-03-05 23:30:49 [32mdatabase connection successful[39m
-[[33mwarn[39m] 2024-03-05 23:30:49 [33mit will retry connecting to the database[39m
-[[33mwarn[39m] 2024-03-05 23:30:49 [33mSchema hasn't been registered for model "undefined".[39m
-[33mUse mongoose.model(name, schema)[39m
-[[32minfo[39m] 2024-03-05 23:30:49 [32mdatabase connection successful[39m
-[[32minfo[39m] 2024-03-05 23:31:18 [32mserver run in http://localhost:3000[39m
-[[32minfo[39m] 2024-03-05 23:31:18 [32mdatabase connection successful[39m
-[[33mwarn[39m] 2024-03-05 23:31:18 [33mit will retry connecting to the database[39m
-[[33mwarn[39m] 2024-03-05 23:31:18 [33mSchema hasn't been registered for model "undefined".[39m
-[33mUse mongoose.model(name, schema)[39m
-[[32minfo[39m] 2024-03-05 23:31:18 [32mdatabase connection successful[39m
-[[33mwarn[39m] 2024-03-05 23:31:18 [33mit will retry connecting to the database[39m
-[[33mwarn[39m] 2024-03-05 23:31:18 [33mSchema hasn't been registered for model "undefined".[39m
-[33mUse mongoose.model(name, schema)[39m
-[[32minfo[39m] 2024-03-05 23:31:18 [32mdatabase connection successful[39m
-[[33mwarn[39m] 2024-03-05 23:31:18 [33mit will retry connecting to the database[39m
-[[33mwarn[39m] 2024-03-05 23:31:18 [33mSchema hasn't been registered for model "undefined".[39m
-[33mUse mongoose.model(name, schema)[39m
-[[32minfo[39m] 2024-03-05 23:31:18 [32mdatabase connection successful[39m
-[[32minfo[39m] 2024-03-05 23:31:39 [32mserver run in http://localhost:3000[39m
-[[32minfo[39m] 2024-03-05 23:31:39 [32mdatabase connection successful[39m
-[[33mwarn[39m] 2024-03-05 23:31:39 [33mit will retry connecting to the database[39m
-[[33mwarn[39m] 2024-03-05 23:31:39 [33mSchema hasn't been registered for model "undefined".[39m
-[33mUse mongoose.model(name, schema)[39m
-[[32minfo[39m] 2024-03-05 23:31:39 [32mdatabase connection successful[39m
-[[33mwarn[39m] 2024-03-05 23:31:39 [33mit will retry connecting to the database[39m
-[[33mwarn[39m] 2024-03-05 23:31:39 [33mSchema hasn't been registered for model "undefined".[39m
-[33mUse mongoose.model(name, schema)[39m
-[[32minfo[39m] 2024-03-05 23:31:39 [32mdatabase connection successful[39m
-[[33mwarn[39m] 2024-03-05 23:31:39 [33mit will retry connecting to the database[39m
-[[33mwarn[39m] 2024-03-05 23:31:39 [33mSchema hasn't been registered for model "undefined".[39m
-[33mUse mongoose.model(name, schema)[39m
-[[32minfo[39m] 2024-03-05 23:31:39 [32mdatabase connection successful[39m
-[[32minfo[39m] 2024-03-05 23:32:20 [32mserver run in http://localhost:3000[39m
-[[32minfo[39m] 2024-03-05 23:32:20 [32mdatabase connection successful[39m
-[[33mwarn[39m] 2024-03-05 23:32:20 [33mit will retry connecting to the database[39m
-[[33mwarn[39m] 2024-03-05 23:32:20 [33mSchema hasn't been registered for model "undefined".[39m
-[33mUse mongoose.model(name, schema)[39m
-[[32minfo[39m] 2024-03-05 23:32:20 [32mdatabase connection successful[39m
-[[33mwarn[39m] 2024-03-05 23:32:20 [33mit will retry connecting to the database[39m
-[[33mwarn[39m] 2024-03-05 23:32:20 [33mSchema hasn't been registered for model "undefined".[39m
-[33mUse mongoose.model(name, schema)[39m
-[[32minfo[39m] 2024-03-05 23:32:20 [32mdatabase connection successful[39m
-[[33mwarn[39m] 2024-03-05 23:32:20 [33mit will retry connecting to the database[39m
-[[33mwarn[39m] 2024-03-05 23:32:20 [33mSchema hasn't been registered for model "undefined".[39m
-[33mUse mongoose.model(name, schema)[39m
-[[32minfo[39m] 2024-03-05 23:32:20 [32mdatabase connection successful[39m
-[[32minfo[39m] 2024-03-05 23:32:35 [32mserver run in http://localhost:3000[39m
-[[32minfo[39m] 2024-03-05 23:32:35 [32mdatabase connection successful[39m
-[[33mwarn[39m] 2024-03-05 23:32:35 [33mit will retry connecting to the database[39m
-[[33mwarn[39m] 2024-03-05 23:32:35 [33mSchema hasn't been registered for model "undefined".[39m
-[33mUse mongoose.model(name, schema)[39m
-[[32minfo[39m] 2024-03-05 23:32:35 [32mdatabase connection successful[39m
-[[33mwarn[39m] 2024-03-05 23:32:35 [33mit will retry connecting to the database[39m
-[[33mwarn[39m] 2024-03-05 23:32:35 [33mSchema hasn't been registered for model "undefined".[39m
-[33mUse mongoose.model(name, schema)[39m
-[[32minfo[39m] 2024-03-05 23:32:35 [32mdatabase connection successful[39m
-[[33mwarn[39m] 2024-03-05 23:32:35 [33mit will retry connecting to the database[39m
-[[33mwarn[39m] 2024-03-05 23:32:35 [33mSchema hasn't been registered for model "undefined".[39m
-[33mUse mongoose.model(name, schema)[39m
-[[32minfo[39m] 2024-03-05 23:32:35 [32mdatabase connection successful[39m
-[[32minfo[39m] 2024-03-05 23:33:07 [32mserver run in http://localhost:3000[39m
-[[32minfo[39m] 2024-03-05 23:33:07 [32mdatabase connection successful[39m
-[[33mwarn[39m] 2024-03-05 23:33:07 [33mit will retry connecting to the database[39m
-[[33mwarn[39m] 2024-03-05 23:33:07 [33mSchema hasn't been registered for model "undefined".[39m
-[33mUse mongoose.model(name, schema)[39m
-[[32minfo[39m] 2024-03-05 23:33:07 [32mdatabase connection successful[39m
-[[33mwarn[39m] 2024-03-05 23:33:07 [33mit will retry connecting to the database[39m
-[[33mwarn[39m] 2024-03-05 23:33:07 [33mSchema hasn't been registered for model "undefined".[39m
-[33mUse mongoose.model(name, schema)[39m
-[[32minfo[39m] 2024-03-05 23:33:07 [32mdatabase connection successful[39m
-[[33mwarn[39m] 2024-03-05 23:33:07 [33mit will retry connecting to the database[39m
-[[33mwarn[39m] 2024-03-05 23:33:07 [33mSchema hasn't been registered for model "undefined".[39m
-[33mUse mongoose.model(name, schema)[39m
-[[32minfo[39m] 2024-03-05 23:33:07 [32mdatabase connection successful[39m
-[[32minfo[39m] 2024-03-05 23:33:20 [32mserver run in http://localhost:3000[39m
-[[32minfo[39m] 2024-03-05 23:33:20 [32mdatabase connection successful[39m
-[[32minfo[39m] 2024-03-05 23:33:20 [32mcreated model user[39m
-[[32minfo[39m] 2024-03-05 23:33:39 [32mserver run in http://localhost:3000[39m
-[[32minfo[39m] 2024-03-05 23:33:39 [32mdatabase connection successful[39m
-[[32minfo[39m] 2024-03-05 23:33:39 [32mcreated model user[39m
-[[32minfo[39m] 2024-03-05 23:33:55 [32mserver run in http://localhost:3000[39m
-[[32minfo[39m] 2024-03-05 23:33:56 [32mdatabase connection successful[39m
-[[32minfo[39m] 2024-03-05 23:33:56 [32mcreated model user[39m
-[[32minfo[39m] 2024-03-05 23:34:06 [32mserver run in http://localhost:3000[39m
-[[32minfo[39m] 2024-03-05 23:34:06 [32mdatabase connection successful[39m
-[[32minfo[39m] 2024-03-05 23:34:06 [32mcreated model user[39m
-[[32minfo[39m] 2024-03-05 23:34:17 [32mserver run in http://localhost:3000[39m
-[[32minfo[39m] 2024-03-05 23:34:17 [32mdatabase connection successful[39m
-[[32minfo[39m] 2024-03-05 23:34:17 [32mcreated model user[39m
-[[32minfo[39m] 2024-03-05 23:39:02 [32mserver run in http://localhost:3000[39m
-[[32minfo[39m] 2024-03-05 23:39:02 [32mdatabase connection successful[39m
-[[33mwarn[39m] 2024-03-05 23:39:02 [33mit will retry connecting to the database[39m
-[[33mwarn[39m] 2024-03-05 23:39:02 [33mmongoose.model.find is not a function[39m
-[[32minfo[39m] 2024-03-05 23:39:02 [32mdatabase connection successful[39m
-[[33mwarn[39m] 2024-03-05 23:39:02 [33mit will retry connecting to the database[39m
-[[33mwarn[39m] 2024-03-05 23:39:02 [33mmongoose.model.find is not a function[39m
-[[32minfo[39m] 2024-03-05 23:39:02 [32mdatabase connection successful[39m
-[[33mwarn[39m] 2024-03-05 23:39:02 [33mit will retry connecting to the database[39m
-[[33mwarn[39m] 2024-03-05 23:39:02 [33mmongoose.model.find is not a function[39m
-[[32minfo[39m] 2024-03-05 23:39:02 [32mdatabase connection successful[39m
-[[32minfo[39m] 2024-03-05 23:39:14 [32mserver run in http://localhost:3000[39m
-[[32minfo[39m] 2024-03-05 23:39:14 [32mdatabase connection successful[39m
-[[31merror[39m] 2024-03-05 23:39:14 [31muncaugth exception: TypeError: mongoose.model.find is not a function[39m
-[[32minfo[39m] 2024-03-05 23:40:03 [32mserver run in http://localhost:3000[39m
-[[32minfo[39m] 2024-03-05 23:40:03 [32mdatabase connection successful[39m
-[[32minfo[39m] 2024-03-05 23:40:03 [32mcreated model user[39m
-[[32minfo[39m] 2024-03-05 23:43:19 [32mserver run in http://localhost:3000[39m
-[[32minfo[39m] 2024-03-05 23:43:19 [32mdatabase connection successful[39m
-[[33mwarn[39m] 2024-03-05 23:43:19 [33mit will retry connecting to the database[39m
-[[33mwarn[39m] 2024-03-05 23:43:19 [33mSchema hasn't been registered for model "user".[39m
-[33mUse mongoose.model(name, schema)[39m
-[[32minfo[39m] 2024-03-05 23:43:19 [32mdatabase connection successful[39m
-[[33mwarn[39m] 2024-03-05 23:43:19 [33mit will retry connecting to the database[39m
-[[33mwarn[39m] 2024-03-05 23:43:19 [33mSchema hasn't been registered for model "user".[39m
-[33mUse mongoose.model(name, schema)[39m
-[[32minfo[39m] 2024-03-05 23:43:19 [32mdatabase connection successful[39m
-[[33mwarn[39m] 2024-03-05 23:43:19 [33mit will retry connecting to the database[39m
-[[32minfo[39m] 2024-03-05 23:43:45 [32mserver run in http://localhost:3000[39m
-[[32minfo[39m] 2024-03-05 23:43:45 [32mdatabase connection successful[39m
-[[32minfo[39m] 2024-03-05 23:43:45 [32mcreated model user[39m
-[[32minfo[39m] 2024-03-05 23:44:53 [32mserver run in http://localhost:3000[39m
-[[32minfo[39m] 2024-03-05 23:44:53 [32mdatabase connection successful[39m
-[[32minfo[39m] 2024-03-05 23:44:53 [32mcreated model user[39m
-[[32minfo[39m] 2024-03-05 23:47:50 [32mserver run in http://localhost:3000[39m
-[[32minfo[39m] 2024-03-05 23:47:50 [32mdatabase connection successful[39m
-[[32minfo[39m] 2024-03-05 23:47:50 [32mcreated model user[39m
-[[32minfo[39m] 2024-03-05 23:48:06 [32mserver run in http://localhost:3000[39m
-[[32minfo[39m] 2024-03-05 23:48:06 [32mdatabase connection successful[39m
-[[33mwarn[39m] 2024-03-05 23:48:06 [33mit will retry connecting to the database[39m
-[[33mwarn[39m] 2024-03-05 23:48:06 [33mCannot assign to read only property 'plugins' of object '#<Mongoose>'[39m
-[[32minfo[39m] 2024-03-05 23:48:06 [32mdatabase connection successful[39m
-[[33mwarn[39m] 2024-03-05 23:48:06 [33mit will retry connecting to the database[39m
-[[33mwarn[39m] 2024-03-05 23:48:06 [33mCannot assign to read only property 'plugins' of object '#<Mongoose>'[39m
-[[32minfo[39m] 2024-03-05 23:48:06 [32mdatabase connection successful[39m
-[[33mwarn[39m] 2024-03-05 23:48:06 [33mit will retry connecting to the database[39m
-[[33mwarn[39m] 2024-03-05 23:48:06 [33mCannot assign to read only property 'plugins' of object '#<Mongoose>'[39m
-[[32minfo[39m] 2024-03-05 23:48:06 [32mdatabase connection successful[39m
-[[32minfo[39m] 2024-03-05 23:48:11 [32mserver run in http://localhost:3000[39m
-[[32minfo[39m] 2024-03-05 23:48:12 [32mdatabase connection successful[39m
-[[32minfo[39m] 2024-03-05 23:48:12 [32mcreated model user[39m
-[[32minfo[39m] 2024-03-05 23:48:25 [32mserver run in http://localhost:3000[39m
-[[32minfo[39m] 2024-03-05 23:48:25 [32mdatabase connection successful[39m
-[[32minfo[39m] 2024-03-05 23:48:25 [32mcreated model user[39m
-[[32minfo[39m] 2024-03-05 23:51:12 [32mserver run in http://localhost:3000[39m
-[[32minfo[39m] 2024-03-05 23:51:12 [32mdatabase connection successful[39m
-[[33mwarn[39m] 2024-03-05 23:51:12 [33mit will retry connecting to the database[39m
-[[33mwarn[39m] 2024-03-05 23:51:12 [33mmongoose.Connection.createCollection is not a function[39m
-[[32minfo[39m] 2024-03-05 23:51:12 [32mdatabase connection successful[39m
-[[33mwarn[39m] 2024-03-05 23:51:12 [33mit will retry connecting to the database[39m
-[[33mwarn[39m] 2024-03-05 23:51:12 [33mmongoose.Connection.createCollection is not a function[39m
-[[32minfo[39m] 2024-03-05 23:51:12 [32mdatabase connection successful[39m
-[[33mwarn[39m] 2024-03-05 23:51:12 [33mit will retry connecting to the database[39m
-[[33mwarn[39m] 2024-03-05 23:51:12 [33mmongoose.Connection.createCollection is not a function[39m
-[[32minfo[39m] 2024-03-05 23:51:12 [32mdatabase connection successful[39m
-[[32minfo[39m] 2024-03-05 23:53:13 [32mserver run in http://localhost:3000[39m
-[[32minfo[39m] 2024-03-05 23:53:13 [32mdatabase connection successful[39m
-[[32minfo[39m] 2024-03-05 23:53:13 [32mcreated model user[39m
-[[32minfo[39m] 2024-03-05 23:56:47 [32mserver run in http://localhost:3000[39m
-[[32minfo[39m] 2024-03-05 23:56:47 [32mdatabase connection successful[39m
-[[32minfo[39m] 2024-03-05 23:56:47 [32mcreated model user[39m
-[[32minfo[39m] 2024-03-05 23:57:44 [32mserver run in http://localhost:3000[39m
-[[32minfo[39m] 2024-03-05 23:57:44 [32mdatabase connection successful[39m
-[[32minfo[39m] 2024-03-05 23:57:45 [32mcreated model user[39m
-[[33mwarn[39m] 2024-03-05 23:57:45 [33mit will retry connecting to the database[39m
-[[33mwarn[39m] 2024-03-05 23:57:45 [33mmongoose.Connection.collections is not a function[39m
-[[32minfo[39m] 2024-03-05 23:57:45 [32mdatabase connection successful[39m
-[[32minfo[39m] 2024-03-05 23:57:45 [32mcreated model user[39m
-[[33mwarn[39m] 2024-03-05 23:57:45 [33mit will retry connecting to the database[39m
-[[33mwarn[39m] 2024-03-05 23:57:45 [33mmongoose.Connection.collections is not a function[39m
-[[32minfo[39m] 2024-03-05 23:57:45 [32mdatabase connection successful[39m
-[[32minfo[39m] 2024-03-05 23:57:45 [32mcreated model user[39m
-[[33mwarn[39m] 2024-03-05 23:57:45 [33mit will retry connecting to the database[39m
-[[33mwarn[39m] 2024-03-05 23:57:45 [33mmongoose.Connection.collections is not a function[39m
-[[32minfo[39m] 2024-03-05 23:57:45 [32mdatabase connection successful[39m
-[[32minfo[39m] 2024-03-05 23:58:11 [32mserver run in http://localhost:3000[39m
-[[32minfo[39m] 2024-03-05 23:58:11 [32mdatabase connection successful[39m
-[[32minfo[39m] 2024-03-05 23:58:11 [32mcreated model user[39m
-[[32minfo[39m] 2024-03-05 23:58:40 [32mserver run in http://localhost:3000[39m
-[[32minfo[39m] 2024-03-05 23:58:40 [32mdatabase connection successful[39m
-[[32minfo[39m] 2024-03-05 23:58:40 [32mcreated model user[39m
-[[32minfo[39m] 2024-03-05 23:59:58 [32mserver run in http://localhost:3000[39m
-[[32minfo[39m] 2024-03-05 23:59:58 [32mdatabase connection successful[39m
-[[32minfo[39m] 2024-03-05 23:59:58 [32mcreated model user[39m
-[[32minfo[39m] 2024-03-06 00:03:07 [32mserver run in http://localhost:3000[39m
-[[32minfo[39m] 2024-03-06 00:03:07 [32mdatabase connection successful[39m
-[[32minfo[39m] 2024-03-06 00:03:07 [32mcreated model user[39m
-[[32minfo[39m] 2024-03-25 19:56:08 [32mserver run in http://0.0.0.0:3000[39m
-[[31merror[39m] 2024-03-25 19:56:38 [31mconnection to the database has not been possible[39m
-[[32minfo[39m] 2024-03-25 20:00:05 [32mserver run in http://0.0.0.0:3000[39m
-[[31merror[39m] 2024-03-25 20:00:35 [31mconnection to the database has not been possible[39m
-[[32minfo[39m] 2024-03-25 20:01:12 [32mserver run in http://0.0.0.0:3000[39m
-[[31merror[39m] 2024-03-25 20:01:42 [31mconnection to the database has not been possible[39m
-[[32minfo[39m] 2024-03-25 20:01:47 [32mserver run in http://0.0.0.0:3000[39m
-[[32minfo[39m] 2024-03-25 20:01:52 [32mserver run in http://0.0.0.0:3000[39m
-[[32minfo[39m] 2024-03-25 20:05:30 [32mserver run in http://0.0.0.0:3000[39m
-[[31merror[39m] 2024-03-25 20:06:00 [31mconnection to the database has not been possible[39m
-[[32minfo[39m] 2024-03-25 20:07:06 [32mserver run in http://0.0.0.0:3000[39m
-[[31merror[39m] 2024-03-25 20:07:06 [31muncaugth exception: TypeError: Router.use() requires a middleware function but got a Module[39m
-[[32minfo[39m] 2024-03-25 20:08:23 [32mserver run in http://0.0.0.0:3000[39m
-[[32minfo[39m] 2024-03-25 20:08:45 [32mserver run in http://0.0.0.0:3000[39m
-[[32minfo[39m] 2024-03-25 20:08:56 [32mserver run in http://0.0.0.0:3000[39m
-[[32minfo[39m] 2024-03-25 20:09:14 [32mserver run in http://0.0.0.0:3000[39m
-[[32minfo[39m] 2024-03-25 20:09:20 [32mserver run in http://0.0.0.0:3000[39m
-[[32minfo[39m] 2024-03-25 20:09:28 [32mserver run in http://0.0.0.0:3000[39m
-[[31merror[39m] 2024-03-25 20:09:58 [31mconnection to the database has not been possible[39m
-[[32minfo[39m] 2024-03-25 20:10:10 [32mserver run in http://0.0.0.0:3000[39m
-[[32minfo[39m] 2024-03-25 20:10:17 [32mserver run in http://0.0.0.0:3000[39m
-[[31merror[39m] 2024-03-25 20:10:47 [31mconnection to the database has not been possible[39m
-[[32minfo[39m] 2024-03-25 20:13:11 [32mserver run in http://0.0.0.0:3000[39m
-[[32minfo[39m] 2024-03-25 20:13:18 [32mserver run in http://0.0.0.0:3000[39m
-[[32minfo[39m] 2024-03-25 20:13:30 [32mserver run in http://0.0.0.0:3000[39m
-[[31merror[39m] 2024-03-25 20:14:00 [31mconnection to the database has not been possible[39m
-[[32minfo[39m] 2024-03-25 20:16:47 [32mserver run in http://0.0.0.0:3000[39m
-[[31merror[39m] 2024-03-25 20:16:47 [31muncaugth exception: TypeError: Router.use() requires a middleware function but got a Module[39m
-[[32minfo[39m] 2024-03-25 20:16:55 [32mserver run in http://0.0.0.0:3000[39m
-[[32minfo[39m] 2024-03-25 20:17:39 [32mserver run in http://0.0.0.0:3000[39m
-[[31merror[39m] 2024-03-25 20:17:39 [31muncaugth exception: TypeError: Router.use() requires a middleware function[39m
-[[32minfo[39m] 2024-03-25 20:18:32 [32mserver run in http://0.0.0.0:3000[39m
-[[31merror[39m] 2024-03-25 20:18:32 [31muncaugth exception: TypeError: Router.use() requires a middleware function[39m
-[[32minfo[39m] 2024-03-25 20:18:40 [32mserver run in http://0.0.0.0:3000[39m
-[[32minfo[39m] 2024-03-25 20:19:07 [32mserver run in http://0.0.0.0:3000[39m
-[[31merror[39m] 2024-03-25 20:19:37 [31mconnection to the database has not been possible[39m
-[[32minfo[39m] 2024-03-25 20:20:31 [32mserver run in http://0.0.0.0:3000[39m
-[[31merror[39m] 2024-03-25 20:21:01 [31mconnection to the database has not been possible[39m
-[[32minfo[39m] 2024-03-25 20:21:47 [32mserver run in http://0.0.0.0:3000[39m
-[[31merror[39m] 2024-03-25 20:22:17 [31mconnection to the database has not been possible[39m
-[[32minfo[39m] 2024-03-25 20:22:53 [32mserver run in http://0.0.0.0:3000[39m
-[[31merror[39m] 2024-03-25 20:23:23 [31mconnection to the database has not been possible[39m
-[[32minfo[39m] 2024-03-25 20:25:14 [32mserver run in http://0.0.0.0:3000[39m
-[[31merror[39m] 2024-03-25 20:25:14 [31mdatabase connection successful[39m
-[[32minfo[39m] 2024-03-25 20:25:39 [32mserver run in http://0.0.0.0:3000[39m
-[[32minfo[39m] 2024-03-25 20:25:39 [32mdatabase connection successful[39m
-[[32minfo[39m] 2024-03-25 20:27:48 [32mserver run in http://0.0.0.0:3000[39m
-[[32minfo[39m] 2024-03-25 20:27:48 [32mdatabase connection successful[39m
-[[32minfo[39m] 2024-03-25 20:28:32 [32mserver run in http://0.0.0.0:3000[39m
-[[32minfo[39m] 2024-03-25 20:28:32 [32mdatabase connection successful[39m
-[[32minfo[39m] 2024-03-25 20:37:28 [32mserver run in http://0.0.0.0:3000[39m
-[[32minfo[39m] 2024-03-25 20:37:28 [32mdatabase connection successful[39m
-[[32minfo[39m] 2024-03-25 20:37:58 [32mserver run in http://0.0.0.0:3000[39m
-[[32minfo[39m] 2024-03-25 20:37:58 [32mdatabase connection successful[39m
-[[32minfo[39m] 2024-03-25 20:41:09 [32mserver run in http://0.0.0.0:3000[39m
-[[32minfo[39m] 2024-03-25 20:41:09 [32mdatabase connection successful[39m
-[[32minfo[39m] 2024-03-25 21:19:20 [32mserver run in http://0.0.0.0:3000[39m
-[[32minfo[39m] 2024-03-25 21:19:20 [32mdatabase connection successful[39m
-[[32minfo[39m] 2024-03-25 21:19:25 [32mserver run in http://0.0.0.0:3000[39m
-[[32minfo[39m] 2024-03-25 21:19:25 [32mdatabase connection successful[39m
-[[32minfo[39m] 2024-03-25 21:20:31 [32mserver run in http://0.0.0.0:3000[39m
-[[32minfo[39m] 2024-03-25 21:20:31 [32mdatabase connection successful[39m
-[[32minfo[39m] 2024-03-25 21:21:04 [32mserver run in http://0.0.0.0:3000[39m
-[[32minfo[39m] 2024-03-25 21:21:04 [32mdatabase connection successful[39m
-[[32minfo[39m] 2024-03-25 21:22:42 [32mserver run in http://0.0.0.0:3000[39m
-[[32minfo[39m] 2024-03-25 21:22:42 [32mdatabase connection successful[39m
-[[32minfo[39m] 2024-03-25 22:19:43 [32mserver run in http://0.0.0.0:3000[39m
-[[32minfo[39m] 2024-03-25 22:19:43 [32mdatabase connection successful[39m
-[[32minfo[39m] 2024-03-26 21:40:36 [32mserver run in http://0.0.0.0:3000[39m
-[[32minfo[39m] 2024-03-26 21:40:36 [32mdatabase connection successful[39m
-[[32minfo[39m] 2024-03-26 21:40:50 [32mserver run in http://0.0.0.0:3000[39m
-[[32minfo[39m] 2024-03-26 21:40:50 [32mdatabase connection successful[39m
-[[32minfo[39m] 2024-03-26 21:40:57 [32mserver run in http://0.0.0.0:3000[39m
-[[32minfo[39m] 2024-03-26 21:40:57 [32mdatabase connection successful[39m
-[[32minfo[39m] 2024-03-26 21:41:01 [32mserver run in http://0.0.0.0:3000[39m
-[[32minfo[39m] 2024-03-26 21:41:01 [32mdatabase connection successful[39m
-[[32minfo[39m] 2024-03-26 21:41:40 [32mserver run in http://0.0.0.0:3000[39m
-[[32minfo[39m] 2024-03-26 21:41:40 [32mdatabase connection successful[39m
-[[31merror[39m] 2024-03-26 21:41:40 [31muncaugth exception: Error: post() requires a function, got "undefined"[39m
-[[32minfo[39m] 2024-03-26 21:41:51 [32mserver run in http://0.0.0.0:3000[39m
-[[32minfo[39m] 2024-03-26 21:41:51 [32mdatabase connection successful[39m
-[[32minfo[39m] 2024-03-26 21:41:55 [32mserver run in http://0.0.0.0:3000[39m
-[[32minfo[39m] 2024-03-26 21:41:55 [32mdatabase connection successful[39m
-[[31merror[39m] 2024-03-26 21:41:55 [31muncaugth exception: Error: post() requires a function, got "undefined"[39m
-[[32minfo[39m] 2024-03-26 21:42:11 [32mserver run in http://0.0.0.0:3000[39m
-[[32minfo[39m] 2024-03-26 21:42:11 [32mdatabase connection successful[39m
-[[32minfo[39m] 2024-03-26 21:42:24 [32mserver run in http://0.0.0.0:3000[39m
-[[32minfo[39m] 2024-03-26 21:42:24 [32mdatabase connection successful[39m
-[[32minfo[39m] 2024-03-26 21:43:26 [32mserver run in http://0.0.0.0:3000[39m
-[[32minfo[39m] 2024-03-26 21:43:26 [32mdatabase connection successful[39m
-[[32minfo[39m] 2024-03-26 21:43:34 [32mserver run in http://0.0.0.0:3000[39m
-[[32minfo[39m] 2024-03-26 21:43:34 [32mdatabase connection successful[39m
-[[32minfo[39m] 2024-03-26 21:44:22 [32mserver run in http://0.0.0.0:3000[39m
-[[32minfo[39m] 2024-03-26 21:44:22 [32mdatabase connection successful[39m
-[[32minfo[39m] 2024-03-26 21:44:39 [32mserver run in http://0.0.0.0:3000[39m
-[[32minfo[39m] 2024-03-26 21:44:39 [32mdatabase connection successful[39m
-[[32minfo[39m] 2024-03-26 21:44:51 [32mserver run in http://0.0.0.0:3000[39m
-[[32minfo[39m] 2024-03-26 21:44:51 [32mdatabase connection successful[39m
-[[32minfo[39m] 2024-03-26 21:44:59 [32m{[39m
-[32m  name: 'dante',[39m
-[32m  lastname: 'dev',[39m
-[32m  email: 'dantedev@gmail.com',[39m
-[32m  password: 'R1v3n0nl1$',[39m
-[32m  role: 'professional',[39m
-[32m  isActive: true,[39m
-[32m  _id: new ObjectId('66037a1b1c3a374624ec35ca'),[39m
-[32m  notes: [],[39m
-[32m  goals: [],[39m
-[32m  createdAt: 2024-03-27T01:44:59.030Z,[39m
-[32m  updatedAt: 2024-03-27T01:44:59.030Z,[39m
-[32m  __v: 0[39m
-[32m}[39m
-[[32minfo[39m] 2024-03-26 21:45:11 [32mserver run in http://0.0.0.0:3000[39m
-[[32minfo[39m] 2024-03-26 21:45:11 [32mdatabase connection successful[39m
-[[32minfo[39m] 2024-03-26 21:45:13 [32mE11000 duplicate key error collection: vars.users index: email_1 dup key: { email: "dantedev@gmail.com" }[39m
-[[32minfo[39m] 2024-03-26 21:45:31 [32m{[39m
-[32m  name: 'dante',[39m
-[32m  lastname: 'dev',[39m
-[32m  email: 'dantedev1@gmail.com',[39m
-[32m  password: 'R1v3n0nl1$',[39m
-[32m  role: 'professional',[39m
-[32m  isActive: true,[39m
-[32m  _id: new ObjectId('66037a3bc54d1c78608b9cff'),[39m
-[32m  notes: [],[39m
-[32m  goals: [],[39m
-[32m  createdAt: 2024-03-27T01:45:31.743Z,[39m
-[32m  updatedAt: 2024-03-27T01:45:31.743Z,[39m
-[32m  __v: 0[39m
-[32m}[39m
-[[32minfo[39m] 2024-03-26 21:45:31 [32mres.created is not a function[39m
-[[32minfo[39m] 2024-03-26 21:47:14 [32mserver run in http://0.0.0.0:3000[39m
-[[32minfo[39m] 2024-03-26 21:47:14 [32mdatabase connection successful[39m
-[[32minfo[39m] 2024-03-26 21:47:22 [32m{[39m
-[32m  name: 'dante',[39m
-[32m  lastname: 'dev',[39m
-[32m  email: 'dantedev2@gmail.com',[39m
-[32m  password: 'R1v3n0nl1$',[39m
-[32m  role: 'professional',[39m
-[32m  isActive: true,[39m
-[32m  _id: new ObjectId('66037aaa090d5a08a2f2899c'),[39m
-[32m  notes: [],[39m
-[32m  goals: [],[39m
-[32m  createdAt: 2024-03-27T01:47:22.723Z,[39m
-[32m  updatedAt: 2024-03-27T01:47:22.723Z,[39m
-[32m  __v: 0[39m
-[32m}[39m
-[[32minfo[39m] 2024-03-26 21:47:45 [32musers validation failed: role: `pattien` is not a valid enum value for path `role`.[39m
-[[32minfo[39m] 2024-03-26 21:48:04 [32musers validation failed: addictionId: Path `addictionId` is required.[39m
-[[32minfo[39m] 2024-03-26 21:48:25 [32mserver run in http://0.0.0.0:3000[39m
-[[32minfo[39m] 2024-03-26 21:48:25 [32mdatabase connection successful[39m
-[[32minfo[39m] 2024-03-26 21:50:03 [32mserver run in http://0.0.0.0:3000[39m
-[[32minfo[39m] 2024-03-26 21:50:03 [32mdatabase connection successful[39m
-[[32minfo[39m] 2024-03-26 21:50:11 [32mserver run in http://0.0.0.0:3000[39m
-[[32minfo[39m] 2024-03-26 21:50:11 [32mdatabase connection successful[39m
-[[32minfo[39m] 2024-03-26 21:50:19 [32mserver run in http://0.0.0.0:3000[39m
-[[32minfo[39m] 2024-03-26 21:50:19 [32mdatabase connection successful[39m
-[[32minfo[39m] 2024-03-26 21:50:25 [32mdante[39m
-[[32minfo[39m] 2024-03-26 21:50:43 [32mserver run in http://0.0.0.0:3000[39m
-[[32minfo[39m] 2024-03-26 21:50:43 [32mdatabase connection successful[39m
-[[32minfo[39m] 2024-03-26 21:50:52 [32mserver run in http://0.0.0.0:3000[39m
-[[32minfo[39m] 2024-03-26 21:50:52 [32mdatabase connection successful[39m
-[[32minfo[39m] 2024-03-26 21:50:59 [32mserver run in http://0.0.0.0:3000[39m
-[[32minfo[39m] 2024-03-26 21:50:59 [32mdatabase connection successful[39m
-[[32minfo[39m] 2024-03-26 21:52:47 [32mserver run in http://0.0.0.0:3000[39m
-[[32minfo[39m] 2024-03-26 21:52:47 [32mdatabase connection successful[39m
-[[32minfo[39m] 2024-03-26 21:53:21 [32mserver run in http://0.0.0.0:3000[39m
-[[32minfo[39m] 2024-03-26 21:53:21 [32mdatabase connection successful[39m
-[[32minfo[39m] 2024-03-26 21:54:32 [32mserver run in http://0.0.0.0:3000[39m
-[[32minfo[39m] 2024-03-26 21:54:32 [32mdatabase connection successful[39m
-[[32minfo[39m] 2024-03-26 21:54:39 [32mserver run in http://0.0.0.0:3000[39m
-[[32minfo[39m] 2024-03-26 21:54:39 [32mdatabase connection successful[39m
-[[32minfo[39m] 2024-03-26 21:54:52 [32mserver run in http://0.0.0.0:3000[39m
-[[32minfo[39m] 2024-03-26 21:54:52 [32mdatabase connection successful[39m
-[[32minfo[39m] 2024-03-26 21:54:54 [32mserver run in http://0.0.0.0:3000[39m
-[[32minfo[39m] 2024-03-26 21:54:54 [32mdatabase connection successful[39m
-[[32minfo[39m] 2024-03-26 21:54:57 [32mserver run in http://0.0.0.0:3000[39m
-[[32minfo[39m] 2024-03-26 21:54:57 [32mdatabase connection successful[39m
-[[32minfo[39m] 2024-03-26 21:55:03 [32mserver run in http://0.0.0.0:3000[39m
-[[32minfo[39m] 2024-03-26 21:55:03 [32mdatabase connection successful[39m
-[[32minfo[39m] 2024-03-26 21:55:23 [32mserver run in http://0.0.0.0:3000[39m
-[[32minfo[39m] 2024-03-26 21:55:23 [32mdatabase connection successful[39m
-[[32minfo[39m] 2024-03-26 21:55:39 [32mserver run in http://0.0.0.0:3000[39m
-[[32minfo[39m] 2024-03-26 21:55:39 [32mdatabase connection successful[39m
-[[32minfo[39m] 2024-03-26 21:55:48 [32mserver run in http://0.0.0.0:3000[39m
-[[32minfo[39m] 2024-03-26 21:55:48 [32mdatabase connection successful[39m
-[[32minfo[39m] 2024-03-26 21:55:54 [32mserver run in http://0.0.0.0:3000[39m
-[[32minfo[39m] 2024-03-26 21:55:54 [32mdatabase connection successful[39m
-[[32minfo[39m] 2024-03-26 21:55:56 [32mserver run in http://0.0.0.0:3000[39m
-[[32minfo[39m] 2024-03-26 21:55:57 [32mdatabase connection successful[39m
-[[32minfo[39m] 2024-03-26 21:56:01 [32mserver run in http://0.0.0.0:3000[39m
-[[32minfo[39m] 2024-03-26 21:56:01 [32mdatabase connection successful[39m
-[[32minfo[39m] 2024-03-26 21:58:38 [32mserver run in http://0.0.0.0:3000[39m
-[[32minfo[39m] 2024-03-26 21:58:38 [32mdatabase connection successful[39m
-[[32minfo[39m] 2024-03-26 21:58:56 [32mserver run in http://0.0.0.0:3000[39m
-[[32minfo[39m] 2024-03-26 21:58:56 [32mdatabase connection successful[39m
-[[32minfo[39m] 2024-03-26 21:59:14 [32mserver run in http://0.0.0.0:3000[39m
-[[32minfo[39m] 2024-03-26 21:59:14 [32mdatabase connection successful[39m
-[[32minfo[39m] 2024-03-26 22:00:18 [32mserver run in http://0.0.0.0:3000[39m
-[[32minfo[39m] 2024-03-26 22:00:18 [32mdatabase connection successful[39m
-[[32minfo[39m] 2024-03-26 22:00:34 [32mserver run in http://0.0.0.0:3000[39m
-[[32minfo[39m] 2024-03-26 22:00:34 [32mdatabase connection successful[39m
-[[32minfo[39m] 2024-03-26 22:01:40 [32mserver run in http://0.0.0.0:3000[39m
-[[32minfo[39m] 2024-03-26 22:01:40 [32mdatabase connection successful[39m
-[[32minfo[39m] 2024-03-26 22:02:58 [32mserver run in http://0.0.0.0:3000[39m
-[[32minfo[39m] 2024-03-26 22:02:58 [32mdatabase connection successful[39m
-[[32minfo[39m] 2024-03-26 22:03:54 [32mserver run in http://0.0.0.0:3000[39m
-[[32minfo[39m] 2024-03-26 22:03:54 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-03-29 20:13:32 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-03-29 20:13:32 [32mdatabase connection successful[39m
+[[31merror[39m] 2024-03-29 20:13:34 [31muncaugth exception: Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client[39m
+[[32minfo[39m] 2024-03-29 20:13:58 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-03-29 20:13:58 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-03-29 20:20:24 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-03-29 20:20:24 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-03-29 20:20:45 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-03-29 20:20:45 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-03-29 20:20:47 [32mE11000 duplicate key error collection: vars.users index: email_1 dup key: { email: "dantedev7@gmail.com" }[39m
+[[32minfo[39m] 2024-03-29 20:21:18 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-03-29 20:21:18 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-03-29 20:21:34 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-03-29 20:21:34 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-03-29 20:21:56 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-03-29 20:21:56 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-03-29 20:21:59 [32mE11000 duplicate key error collection: vars.users index: email_1 dup key: { email: "dantedev7@gmail.com" }[39m
+[[32minfo[39m] 2024-03-29 20:22:10 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-03-29 20:22:10 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-03-29 20:22:14 [32mE11000 duplicate key error collection: vars.users index: email_1 dup key: { email: "dantedev7@gmail.com" }[39m
+[[32minfo[39m] 2024-03-29 20:22:54 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-03-29 20:22:54 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-03-29 20:22:56 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-03-29 20:22:56 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-03-29 20:22:59 [32mE11000 duplicate key error collection: vars.users index: email_1 dup key: { email: "dantedev7@gmail.com" }[39m
+[[32minfo[39m] 2024-03-29 20:23:18 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-03-29 20:23:18 [32mdatabase connection successful[39m
+[[31merror[39m] 2024-03-29 20:23:18 [31muncaugth exception: SyntaxError: Named export 'MongooseServerError' not found. The requested module 'mongoose' is a CommonJS module, which may not support all module.exports as named exports.[39m
+[31mCommonJS modules can always be imported via the default export, for example using:[39m
+
+[31mimport pkg from 'mongoose';[39m
+[31mconst { MongooseServerError } = pkg;[39m
+[31m[39m
+[[32minfo[39m] 2024-03-29 20:23:25 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-03-29 20:23:25 [32mdatabase connection successful[39m
+[[31merror[39m] 2024-03-29 20:23:25 [31muncaugth exception: SyntaxError: Named export 'MongooseServerError' not found. The requested module 'mongoose' is a CommonJS module, which may not support all module.exports as named exports.[39m
+[31mCommonJS modules can always be imported via the default export, for example using:[39m
+
+[31mimport pkg from 'mongoose';[39m
+[31mconst { MongooseServerError } = pkg;[39m
+[31m[39m
+[[32minfo[39m] 2024-03-29 20:23:44 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-03-29 20:23:44 [32mdatabase connection successful[39m
+[[31merror[39m] 2024-03-29 20:23:44 [31muncaugth exception: SyntaxError: Named export 'MongooseServerError' not found. The requested module 'mongoose' is a CommonJS module, which may not support all module.exports as named exports.[39m
+[31mCommonJS modules can always be imported via the default export, for example using:[39m
+
+[31mimport pkg from 'mongoose';[39m
+[31mconst { MongooseServerError } = pkg;[39m
+[31m[39m
+[[32minfo[39m] 2024-03-29 20:25:46 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-03-29 20:25:46 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-03-29 20:26:07 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-03-29 20:26:07 [32mdatabase connection successful[39m
+[[31merror[39m] 2024-03-29 20:26:11 [31mE11000 duplicate key error collection: vars.users index: email_1 dup key: { email: "dantedev7@gmail.com" }[39m
+[[32minfo[39m] 2024-03-29 20:26:49 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-03-29 20:26:49 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-03-29 20:27:14 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-03-29 20:27:14 [32mdatabase connection successful[39m
+[[31merror[39m] 2024-03-29 20:27:16 [31mE11000 duplicate key error collection: vars.users index: email_1 dup key: { email: "dantedev7@gmail.com" }[39m
+[[32minfo[39m] 2024-03-29 20:27:45 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-03-29 20:27:45 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-03-29 20:28:19 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-03-29 20:28:19 [32mdatabase connection successful[39m
+[[31merror[39m] 2024-03-29 20:28:22 [31mE11000 duplicate key error collection: vars.users index: email_1 dup key: { email: "dantedev7@gmail.com" }[39m
+[[32minfo[39m] 2024-03-29 20:30:50 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-03-29 20:30:50 [32mdatabase connection successful[39m
+[[31merror[39m] 2024-03-29 20:30:53 [31mE11000 duplicate key error collection: vars.users index: email_1 dup key: { email: "dantedev7@gmail.com" }[39m
+[[32minfo[39m] 2024-03-29 20:31:35 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-03-29 20:31:35 [32mdatabase connection successful[39m
+[[31merror[39m] 2024-03-29 20:31:38 [31mE11000 duplicate key error collection: vars.users index: email_1 dup key: { email: "dantedev7@gmail.com" }[39m
+[[32minfo[39m] 2024-03-29 20:32:19 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-03-29 20:32:19 [32mdatabase connection successful[39m
+[[31merror[39m] 2024-03-29 20:32:22 [31mE11000 duplicate key error collection: vars.users index: email_1 dup key: { email: "dantedev7@gmail.com" }[39m
+[[32minfo[39m] 2024-03-29 20:32:38 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-03-29 20:32:38 [32mdatabase connection successful[39m
+[[31merror[39m] 2024-03-29 20:32:43 [31mE11000 duplicate key error collection: vars.users index: email_1 dup key: { email: "dantedev7@gmail.com" }[39m
+[[32minfo[39m] 2024-03-29 20:32:50 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-03-29 20:32:50 [32mdatabase connection successful[39m
+[[31merror[39m] 2024-03-29 20:32:53 [31mE11000 duplicate key error collection: vars.users index: email_1 dup key: { email: "dantedev7@gmail.com" }[39m
+[[32minfo[39m] 2024-03-29 20:33:40 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-03-29 20:33:40 [32mdatabase connection successful[39m
+[[31merror[39m] 2024-03-29 20:33:44 [31mE11000 duplicate key error collection: vars.users index: email_1 dup key: { email: "dantedev7@gmail.com" }[39m
+[[32minfo[39m] 2024-03-29 20:34:19 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-03-29 20:34:19 [32mdatabase connection successful[39m
+[[31merror[39m] 2024-03-29 20:34:24 [31mE11000 duplicate key error collection: vars.users index: email_1 dup key: { email: "dantedev7@gmail.com" }[39m
+[[32minfo[39m] 2024-03-29 20:35:12 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-03-29 20:35:12 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-03-29 20:35:16 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-03-29 20:35:16 [32mdatabase connection successful[39m
+[[31merror[39m] 2024-03-29 20:35:19 [31mE11000 duplicate key error collection: vars.users index: email_1 dup key: { email: "dantedev7@gmail.com" }[39m
+[[32minfo[39m] 2024-03-29 20:37:17 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-03-29 20:37:17 [32mdatabase connection successful[39m
+[[31merror[39m] 2024-03-29 20:37:20 [31mE11000 duplicate key error collection: vars.users index: email_1 dup key: { email: "dantedev7@gmail.com" }[39m
+[[32minfo[39m] 2024-03-29 20:38:41 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-03-29 20:38:41 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-03-29 20:38:44 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-03-29 20:38:44 [32mdatabase connection successful[39m
+[[31merror[39m] 2024-03-29 20:38:48 [31mE11000 duplicate key error collection: vars.users index: email_1 dup key: { email: "dantedev7@gmail.com" }[39m
+[[32minfo[39m] 2024-03-29 20:39:20 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-03-29 20:39:20 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-03-29 20:39:53 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-03-29 20:39:54 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-03-29 20:40:15 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-03-29 20:40:15 [32mdatabase connection successful[39m
+[[31merror[39m] 2024-03-29 20:40:19 [31mE11000 duplicate key error collection: vars.users index: email_1 dup key: { email: "dantedev7@gmail.com" }[39m
+[[32minfo[39m] 2024-03-29 20:40:35 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-03-29 20:40:35 [32mdatabase connection successful[39m
+[[31merror[39m] 2024-03-29 20:40:35 [31muncaugth exception: SyntaxError: Unexpected token ')'[39m
+[[32minfo[39m] 2024-03-29 20:40:46 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-03-29 20:40:46 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-03-29 20:40:55 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-03-29 20:40:56 [32mdatabase connection successful[39m
+[[31merror[39m] 2024-03-29 20:41:22 [31muncaugth exception: RangeError [ERR_HTTP_INVALID_STATUS_CODE]: Invalid status code: { data: null, msg: undefined, errors: [Array] }[39m
+[[32minfo[39m] 2024-03-29 20:41:44 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-03-29 20:41:44 [32mdatabase connection successful[39m
+[[31merror[39m] 2024-03-29 20:41:46 [31muncaugth exception: TypeError: error is not iterable[39m
+[[32minfo[39m] 2024-03-29 20:41:56 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-03-29 20:41:56 [32mdatabase connection successful[39m
+[[31merror[39m] 2024-03-29 20:41:58 [31muncaugth exception: RangeError [ERR_HTTP_INVALID_STATUS_CODE]: Invalid status code: { data: null, msg: undefined, errors: [Array] }[39m
+[[32minfo[39m] 2024-03-29 20:42:12 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-03-29 20:42:12 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-03-29 20:43:00 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-03-29 20:43:00 [32mdatabase connection successful[39m
+[[31merror[39m] 2024-03-29 20:43:03 [31muncaugth exception: RangeError [ERR_HTTP_INVALID_STATUS_CODE]: Invalid status code: { data: null, msg: undefined, errors: [Array] }[39m
+[[32minfo[39m] 2024-03-29 20:43:27 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-03-29 20:43:27 [32mdatabase connection successful[39m
+[[31merror[39m] 2024-03-29 20:43:31 [31muncaugth exception: RangeError [ERR_HTTP_INVALID_STATUS_CODE]: Invalid status code: { data: null, msg: undefined, errors: [Array] }[39m
+[[32minfo[39m] 2024-03-29 20:44:05 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-03-29 20:44:05 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-03-29 20:44:16 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-03-29 20:44:16 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-03-29 20:44:24 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-03-29 20:44:24 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-03-29 20:44:42 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-03-29 20:44:42 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-03-29 20:44:48 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-03-29 20:44:48 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-03-29 20:45:19 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-03-29 20:45:19 [32mdatabase connection successful[39m
+[[31merror[39m] 2024-03-29 20:45:24 [31muncaugth exception: RangeError [ERR_HTTP_INVALID_STATUS_CODE]: Invalid status code: { data: null, msg: undefined, errors: [Array] }[39m
+[[32minfo[39m] 2024-03-29 20:45:37 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-03-29 20:45:37 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-03-29 20:45:42 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-03-29 20:45:42 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-03-29 20:45:47 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-03-29 20:45:47 [32mdatabase connection successful[39m
+[[31merror[39m] 2024-03-29 20:45:51 [31muncaugth exception: RangeError [ERR_HTTP_INVALID_STATUS_CODE]: Invalid status code: { data: null, msg: undefined, errors: [Array] }[39m
+[[32minfo[39m] 2024-03-29 20:46:24 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-03-29 20:46:25 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-03-29 20:47:04 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-03-29 20:47:04 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-03-29 20:47:16 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-03-29 20:47:16 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-03-29 20:47:22 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-03-29 20:47:22 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-03-29 20:48:11 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-03-29 20:48:11 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-03-29 20:48:49 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-03-29 20:48:49 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-03-29 20:48:57 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-03-29 20:48:57 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-03-29 20:49:18 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-03-29 20:49:19 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-03-29 20:49:50 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-03-29 20:49:50 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-03-29 20:51:08 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-03-29 20:51:08 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-03-29 20:51:10 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-03-29 20:51:10 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-03-29 20:51:56 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-03-29 20:51:56 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-03-29 20:52:09 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-03-29 20:52:09 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-03-29 20:52:41 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-03-29 20:52:41 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-03-29 20:52:50 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-03-29 20:52:50 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-03-29 20:52:59 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-03-29 20:52:59 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-03-29 20:53:03 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-03-29 20:53:03 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-03-29 20:53:26 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-03-29 20:53:26 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-03-29 20:54:18 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-03-29 20:54:18 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-03-29 20:54:30 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-03-29 20:54:31 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-03-29 20:54:54 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-03-29 20:54:54 [32mdatabase connection successful[39m

@@ -10,6 +10,6 @@ export async function generateJWT(data) {
     .sign(secret);
 }
 
-export async function veifyJWT(token) {
+export async function verifyJWT(token) {
   return await jwtVerify(token, secret);
 }

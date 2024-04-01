@@ -17,17 +17,17 @@ export const signupModel = object({
     .required()
     .min(2)
     .max(20)
-    .matches(/^[a-zA-Z]$/),
+    .matches(/^[a-zA-Z]+$/g),
   lastname: string()
     .trim()
     .required()
     .min(2)
     .max(20)
-    .matches(/^[a-zA-Z]$/),
+    .matches(/^[a-zA-Z]+$/g),
   role: string()
     .required()
     .trim()
-    .matches(/^(admin|patient)$/),
+    .matches(/^(professional|patient)$/),
   context: string().trim().notRequired().optional(),
   addictionId: string()
     .matches(/^[0-9a-fA-F]{24}$/)

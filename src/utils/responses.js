@@ -3,5 +3,5 @@ export function responseSuccess(data, msg) {
 }
 
 export function responseError(errors, msg) {
-  return { data: null, msg, errors: { ...errors } };
+  return { data: null, msg, errors };
 }
