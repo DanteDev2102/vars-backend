@@ -1,7 +1,7 @@
 version: '3.8'
 services:
   db:
-    container_name: ${PROJECT_NAME}_DB
+    container_name: ${PROJECT_NAME}_db
     image: mongo:6-jammy
     ports:
       - ${PORT_DB}:27017

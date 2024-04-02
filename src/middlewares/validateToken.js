@@ -18,7 +18,10 @@ export async function validateToken(req, res, next) {
     return res.status(401).json(responseError([{ code: 'server-401', description: 'token expired' }], 'token expired'));
   }
 
-  req.userRole = payload.role;
+  req.user = {
+    email: payload.email,
+    role: payload.role
+  };
 
   next();
 }

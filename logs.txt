@@ -298,3 +298,338 @@
 [[32minfo[39m] 2024-04-01 20:46:23 [32mdatabase connection successful[39m
 [[32minfo[39m] 2024-04-01 20:46:32 [32mserver run in http://0.0.0.0:3000[39m
 [[32minfo[39m] 2024-04-01 20:46:32 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-04-02 10:40:36 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-02 10:40:36 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-04-02 10:41:27 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-02 10:41:27 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-04-02 10:42:20 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-02 10:42:20 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-04-02 10:44:37 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-02 10:44:50 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-02 10:44:50 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-04-02 10:45:19 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-02 10:45:19 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-04-02 10:46:42 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-02 10:46:42 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-04-02 10:52:25 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-02 10:52:25 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-04-02 10:52:42 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-02 10:52:42 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-04-02 10:52:50 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-02 10:52:50 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-04-02 10:53:50 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-02 10:53:50 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-04-02 10:53:58 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-02 10:53:58 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-04-02 10:55:02 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-02 10:55:02 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-04-02 10:55:13 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-02 10:55:13 [32mdatabase connection successful[39m
+[[31merror[39m] 2024-04-02 10:55:16 [31muncaugth exception: TypeError: Converting circular structure to JSON[39m
+[31m    --> starting at object with constructor 'MongoClient'[39m
+[31m    |     property 's' -> object with constructor 'Object'[39m
+[31m    |     property 'sessionPool' -> object with constructor 'ServerSessionPool'[39m
+[31m    --- property 'client' closes the circle[39m
+[[32minfo[39m] 2024-04-02 10:55:27 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-02 10:55:27 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-04-02 10:56:59 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-02 10:56:59 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-04-02 10:57:12 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-02 10:57:12 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-04-02 10:57:23 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-02 10:57:23 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-04-02 10:57:30 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-02 10:57:30 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-04-02 10:58:08 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-02 10:58:08 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-04-02 10:58:25 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-02 10:58:25 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-04-02 10:58:47 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-02 10:58:47 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-04-02 10:59:02 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-02 10:59:02 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-04-02 10:59:08 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-02 10:59:08 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-04-02 10:59:39 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-02 10:59:39 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-04-02 11:00:17 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-02 11:00:17 [32mdatabase connection successful[39m
+[[31merror[39m] 2024-04-02 11:00:17 [31muncaugth exception: SyntaxError: Identifier 'email' has already been declared[39m
+[[32minfo[39m] 2024-04-02 11:01:07 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-02 11:01:07 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-04-02 11:01:20 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-02 11:01:20 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-04-02 11:01:20 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-02 11:01:20 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-04-02 11:02:04 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-02 11:02:04 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-04-02 11:02:11 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-02 11:02:11 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-04-02 11:02:16 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-02 11:02:16 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-04-02 11:03:02 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-02 11:03:02 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-04-02 11:03:13 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-02 11:03:13 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-04-02 11:03:26 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-02 11:03:26 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-04-02 11:16:42 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-02 11:16:42 [32mdatabase connection successful[39m
+[[31merror[39m] 2024-04-02 11:16:42 [31muncaugth exception: SyntaxError: Unexpected token 'catch'[39m
+[[32minfo[39m] 2024-04-02 11:16:46 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-02 11:16:46 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-04-02 11:22:02 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-02 11:22:02 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-04-02 11:22:50 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-02 11:22:50 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-04-02 11:24:34 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-02 11:24:34 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-04-02 11:24:48 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-02 11:24:48 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-04-02 11:25:09 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-02 11:25:09 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-04-02 11:25:54 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-02 11:25:54 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-04-02 11:26:37 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-02 11:26:37 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-04-02 11:28:12 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-02 11:28:12 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-04-02 11:28:25 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-02 11:28:25 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-04-02 11:28:52 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-02 11:28:52 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-04-02 11:28:58 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-02 11:28:58 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-04-02 11:29:07 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-02 11:29:07 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-04-02 11:29:15 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-02 11:29:15 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-04-02 11:30:55 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-02 11:30:55 [32mdatabase connection successful[39m
+[[31merror[39m] 2024-04-02 11:30:55 [31muncaugth exception: SyntaxError: Unexpected end of input[39m
+[[32minfo[39m] 2024-04-02 11:31:20 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-02 11:31:20 [32mdatabase connection successful[39m
+[[31merror[39m] 2024-04-02 11:31:20 [31muncaugth exception: SyntaxError: Unexpected end of input[39m
+[[32minfo[39m] 2024-04-02 11:31:37 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-02 11:31:37 [32mdatabase connection successful[39m
+[[31merror[39m] 2024-04-02 11:31:37 [31muncaugth exception: SyntaxError: Unexpected end of input[39m
+[[32minfo[39m] 2024-04-02 11:31:46 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-02 11:31:46 [32mdatabase connection successful[39m
+[[31merror[39m] 2024-04-02 11:31:46 [31muncaugth exception: SyntaxError: Unexpected end of input[39m
+[[32minfo[39m] 2024-04-02 11:31:54 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-02 11:31:54 [32mdatabase connection successful[39m
+[[31merror[39m] 2024-04-02 11:31:54 [31muncaugth exception: SyntaxError: Unexpected end of input[39m
+[[32minfo[39m] 2024-04-02 11:32:06 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-02 11:32:06 [32mdatabase connection successful[39m
+[[31merror[39m] 2024-04-02 11:32:06 [31muncaugth exception: SyntaxError: Unexpected end of input[39m
+[[32minfo[39m] 2024-04-02 11:32:26 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-02 11:32:26 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-04-02 11:34:45 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-02 11:34:45 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-04-02 11:34:54 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-02 11:34:54 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-04-02 11:35:50 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-02 11:35:50 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-04-02 11:35:54 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-02 11:35:54 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-04-02 11:36:10 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-02 11:36:10 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-04-02 11:36:24 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-02 11:36:24 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-04-02 11:36:39 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-02 11:36:39 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-04-02 11:37:09 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-02 11:37:09 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-04-02 11:39:47 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-02 11:39:47 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-04-02 11:40:56 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-02 11:40:56 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-04-02 11:41:17 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-02 11:41:17 [32mdatabase connection successful[39m
+[[31merror[39m] 2024-04-02 11:41:17 [31muncaugth exception: SyntaxError: Unexpected token ')'[39m
+[[32minfo[39m] 2024-04-02 11:41:27 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-02 11:41:27 [32mdatabase connection successful[39m
+[[31merror[39m] 2024-04-02 11:41:27 [31muncaugth exception: SyntaxError: Unexpected token ')'[39m
+[[32minfo[39m] 2024-04-02 11:41:33 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-02 11:41:33 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-04-02 11:41:53 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-02 11:41:53 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-04-02 11:42:52 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-02 11:42:52 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-04-02 11:42:53 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-02 11:42:53 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-04-02 11:43:01 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-02 11:43:01 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-04-02 11:43:51 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-02 11:43:51 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-04-02 11:48:22 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-02 11:48:22 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-04-02 11:49:33 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-02 11:49:33 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-04-02 11:49:40 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-02 11:49:40 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-04-02 11:53:00 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-02 11:53:00 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-04-02 11:53:11 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-02 11:53:11 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-04-02 11:53:28 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-02 11:53:28 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-04-02 13:37:26 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-02 13:37:26 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-04-02 13:37:55 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-02 13:37:55 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-04-02 13:39:01 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-02 13:39:01 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-04-02 13:39:28 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-02 13:39:28 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-04-02 13:57:41 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-02 13:57:41 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-04-02 13:57:54 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-02 13:57:54 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-04-02 13:58:04 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-02 13:58:04 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-04-02 14:05:00 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-02 14:05:00 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-04-02 14:05:40 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-02 14:05:40 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-04-02 14:06:07 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-02 14:06:07 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-04-02 14:06:33 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-02 14:06:33 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-04-02 14:07:12 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-02 14:07:12 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-04-02 14:07:20 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-02 14:07:20 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-04-02 14:07:28 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-02 14:07:28 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-04-02 14:07:28 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-02 14:07:28 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-04-02 14:07:47 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-02 14:07:47 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-04-02 14:08:55 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-02 14:08:55 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-04-02 14:09:32 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-02 14:09:32 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-04-02 14:09:55 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-02 14:09:55 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-04-02 14:09:58 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-02 14:09:58 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-04-02 14:10:10 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-02 14:10:10 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-04-02 14:10:14 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-02 14:10:14 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-04-02 14:11:12 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-02 14:11:12 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-04-02 14:12:42 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-02 14:12:42 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-04-02 14:12:58 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-02 14:12:58 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-04-02 14:13:59 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-02 14:13:59 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-04-02 14:14:11 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-02 14:14:11 [32mdatabase connection successful[39m
+[[31merror[39m] 2024-04-02 14:14:29 [31musers validation failed: nroDoctor: Path `nroDoctor` is required.[39m
+[[32minfo[39m] 2024-04-02 14:28:53 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-02 14:28:53 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-04-02 14:29:07 [32mdatabase connection successful[39m
+[[31merror[39m] 2024-04-02 15:38:32 [31mpassword is not defined[39m
+[[32minfo[39m] 2024-04-02 15:39:25 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-02 15:39:25 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-04-02 15:42:03 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-02 15:42:03 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-04-02 15:44:44 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-02 15:44:44 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-04-02 15:45:16 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-02 15:45:16 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-04-02 15:45:35 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-02 15:45:35 [32mdatabase connection successful[39m
+[[31merror[39m] 2024-04-02 15:45:36 [31muncaugth exception: ReferenceError: updateProfile is not defined[39m
+[[32minfo[39m] 2024-04-02 15:46:38 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-02 15:46:38 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-04-02 16:18:05 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-02 16:18:05 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-04-02 16:18:07 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-02 16:18:07 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-04-02 16:28:10 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-02 16:28:10 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-04-02 16:30:12 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-02 16:30:12 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-04-02 16:31:00 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-02 16:31:00 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-04-02 16:31:23 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-02 16:31:23 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-04-02 16:31:50 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-02 16:31:50 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-04-02 16:32:20 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-02 16:32:20 [32mdatabase connection successful[39m
+[[31merror[39m] 2024-04-02 16:32:20 [31muncaugth exception: ReferenceError: object is not defined[39m
+[[32minfo[39m] 2024-04-02 16:32:35 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-02 16:32:35 [32mdatabase connection successful[39m
+[[31merror[39m] 2024-04-02 16:32:35 [31muncaugth exception: ReferenceError: object is not defined[39m
+[[32minfo[39m] 2024-04-02 16:33:07 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-02 16:33:07 [32mdatabase connection successful[39m
+[[31merror[39m] 2024-04-02 16:33:07 [31muncaugth exception: ReferenceError: object is not defined[39m
+[[32minfo[39m] 2024-04-02 16:33:45 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-02 16:33:45 [32mdatabase connection successful[39m
+[[31merror[39m] 2024-04-02 16:33:45 [31muncaugth exception: ReferenceError: object is not defined[39m
+[[32minfo[39m] 2024-04-02 16:33:57 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-02 16:33:57 [32mdatabase connection successful[39m
+[[31merror[39m] 2024-04-02 16:33:57 [31muncaugth exception: ReferenceError: object is not defined[39m
+[[32minfo[39m] 2024-04-02 16:34:27 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-02 16:34:27 [32mdatabase connection successful[39m
+[[31merror[39m] 2024-04-02 16:34:27 [31muncaugth exception: ReferenceError: object is not defined[39m
+[[32minfo[39m] 2024-04-02 16:34:46 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-02 16:34:46 [32mdatabase connection successful[39m
+[[31merror[39m] 2024-04-02 16:34:46 [31muncaugth exception: ReferenceError: object is not defined[39m
+[[32minfo[39m] 2024-04-02 16:34:55 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-02 16:34:55 [32mdatabase connection successful[39m
+[[31merror[39m] 2024-04-02 16:34:55 [31muncaugth exception: ReferenceError: object is not defined[39m
+[[32minfo[39m] 2024-04-02 16:35:11 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-02 16:35:11 [32mdatabase connection successful[39m
+[[31merror[39m] 2024-04-02 16:35:11 [31muncaugth exception: ReferenceError: object is not defined[39m
+[[32minfo[39m] 2024-04-02 16:35:17 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-02 16:35:17 [32mdatabase connection successful[39m
+[[31merror[39m] 2024-04-02 16:35:17 [31muncaugth exception: ReferenceError: object is not defined[39m
+[[32minfo[39m] 2024-04-02 16:35:29 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-02 16:35:29 [32mdatabase connection successful[39m
+[[31merror[39m] 2024-04-02 16:35:29 [31muncaugth exception: ReferenceError: object is not defined[39m
+[[32minfo[39m] 2024-04-02 16:35:34 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-02 16:35:34 [32mdatabase connection successful[39m
+[[31merror[39m] 2024-04-02 16:35:34 [31muncaugth exception: ReferenceError: object is not defined[39m
+[[32minfo[39m] 2024-04-02 16:35:46 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-02 16:35:46 [32mdatabase connection successful[39m
+[[31merror[39m] 2024-04-02 16:35:46 [31muncaugth exception: ReferenceError: object is not defined[39m
+[[32minfo[39m] 2024-04-02 16:35:59 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-02 16:35:59 [32mdatabase connection successful[39m
+[[31merror[39m] 2024-04-02 16:35:59 [31muncaugth exception: ReferenceError: object is not defined[39m
+[[32minfo[39m] 2024-04-02 16:36:05 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-02 16:36:05 [32mdatabase connection successful[39m
+[[31merror[39m] 2024-04-02 16:36:05 [31muncaugth exception: ReferenceError: object is not defined[39m
+[[32minfo[39m] 2024-04-02 16:36:13 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-02 16:36:13 [32mdatabase connection successful[39m
+[[31merror[39m] 2024-04-02 16:36:13 [31muncaugth exception: ReferenceError: object is not defined[39m
+[[32minfo[39m] 2024-04-02 16:36:20 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-02 16:36:20 [32mdatabase connection successful[39m
+[[31merror[39m] 2024-04-02 16:36:20 [31muncaugth exception: ReferenceError: object is not defined[39m
+[[32minfo[39m] 2024-04-02 16:36:27 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-02 16:36:27 [32mdatabase connection successful[39m
+[[31merror[39m] 2024-04-02 16:36:28 [31muncaugth exception: ReferenceError: object is not defined[39m
+[[32minfo[39m] 2024-04-02 16:36:34 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-02 16:36:34 [32mdatabase connection successful[39m
+[[31merror[39m] 2024-04-02 16:36:34 [31muncaugth exception: ReferenceError: object is not defined[39m
+[[32minfo[39m] 2024-04-02 16:37:12 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-02 16:37:12 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-04-02 16:37:13 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-02 16:37:13 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-04-02 16:42:42 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-02 16:42:42 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-04-02 16:44:51 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-02 16:44:51 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-04-02 16:44:55 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-02 16:44:55 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-04-02 16:45:10 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-02 16:45:10 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-04-02 16:45:21 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-02 16:45:21 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-04-02 17:01:01 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-02 17:01:01 [32mdatabase connection successful[39m

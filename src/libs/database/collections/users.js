@@ -24,7 +24,7 @@ const model = new Schema(
     profileUrl: Types.String,
     addictionId: {
       type: Types.ObjectId,
-      required: function () {
+      required() {
         return this.role === 'patient';
       },
       ref: 'addictions'
@@ -50,6 +50,35 @@ const model = new Schema(
     isActive: {
       type: Types.Boolean,
       default: true
+    },
+    patients: [
+      {
+        type: Types.ObjectId,
+        ref: 'users'
+      }
+    ],
+    nroDoctor: {
+      type: Types.String,
+      required() {
+        return this.role === 'professional';
+      }
+    },
+    isTreatment: {
+      type: Types.Boolean,
+      required() {
+        return this.role === 'patient';
+      },
+      default: false
+    },
+    treatment: {
+      type: Types.String,
+      required() {
+        return this.role === 'patient' && this.isTreatment;
+      }
+    },
+    professional: {
+      type: Types.ObjectId,
+      ref: 'users'
     }
   },
   {

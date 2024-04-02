@@ -1,13 +1,15 @@
 import { Router } from 'express';
+import { validateToken } from '../../middlewares/validateToken.js';
+import { validateSchema } from '../../middlewares/validateSchema.js';
+import { me, updateProfile } from './controllers.js';
+import { updateProfileModel } from './models.js';
 
 const router = Router();
 
-router.post('/login', (req, res) => {
-  res.json({ 'ok': true });
-});
+router.use(validateToken);
 
-router.post('/signup', (req, res) => {
-  res.json({ 'ok': true });
-});
+router.get('/me', me);
+
+router.put('/profile', validateSchema(updateProfileModel), updateProfile);
 
 export default router;
