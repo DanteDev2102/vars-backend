@@ -28,4 +28,4 @@ const model = new Schema(
   }
 );
 
-export default mongoose.models.messages || mongoose.model('messages', model);
+export default mongoose.model('messages', model);

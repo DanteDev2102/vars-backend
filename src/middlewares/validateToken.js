@@ -1,14 +1,24 @@
 import { responseError } from '../utils/responses.js';
 import { verifyJWT } from '../libs/jwt/token.js';
 
-export function validateToken(req, res, next) {
+export async function validateToken(req, res, next) {
   const { headers } = req;
 
-  if (!('Authorization' in headers) || !('authorization' in headers)) {
-    return res.status(401).json(responseError(null, 'not has token'));
+  if (!headers.authorization) {
+    return res.status(401).json(responseError([{ code: 'server-401', description: 'not has token' }], 'not has token'));
   }
 
-  verifyJWT();
+  const token = headers.authorization;
+
+  const { payload } = await verifyJWT(token);
+
+  const currentDate = Math.round(Date.now() / 1000);
+
+  if (payload.exp <= currentDate) {
+    return res.status(401).json(responseError([{ code: 'server-401', description: 'token expired' }], 'token expired'));
+  }
+
+  req.userRole = payload.role;
 
   next();
 }

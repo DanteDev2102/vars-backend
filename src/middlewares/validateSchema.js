@@ -10,7 +10,11 @@ export const validateSchema = (schema) => async (req, res, next) => {
     next();
   } catch (error) {
     if (error instanceof ValidationError) {
-      res.status(400).json(responseError(error.errors, 'invalid entity'));
+      res
+        .status(400)
+        .json(
+          responseError({ code: 'server-400', description: 'invalid entity', errors: error.errors }, 'invalid entity')
+        );
       return;
     }
 

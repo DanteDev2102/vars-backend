@@ -1,189 +1,300 @@
-[[32minfo[39m] 2024-03-29 20:13:32 [32mserver run in http://0.0.0.0:3000[39m
-[[32minfo[39m] 2024-03-29 20:13:32 [32mdatabase connection successful[39m
-[[31merror[39m] 2024-03-29 20:13:34 [31muncaugth exception: Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client[39m
-[[32minfo[39m] 2024-03-29 20:13:58 [32mserver run in http://0.0.0.0:3000[39m
-[[32minfo[39m] 2024-03-29 20:13:58 [32mdatabase connection successful[39m
-[[32minfo[39m] 2024-03-29 20:20:24 [32mserver run in http://0.0.0.0:3000[39m
-[[32minfo[39m] 2024-03-29 20:20:24 [32mdatabase connection successful[39m
-[[32minfo[39m] 2024-03-29 20:20:45 [32mserver run in http://0.0.0.0:3000[39m
-[[32minfo[39m] 2024-03-29 20:20:45 [32mdatabase connection successful[39m
-[[32minfo[39m] 2024-03-29 20:20:47 [32mE11000 duplicate key error collection: vars.users index: email_1 dup key: { email: "dantedev7@gmail.com" }[39m
-[[32minfo[39m] 2024-03-29 20:21:18 [32mserver run in http://0.0.0.0:3000[39m
-[[32minfo[39m] 2024-03-29 20:21:18 [32mdatabase connection successful[39m
-[[32minfo[39m] 2024-03-29 20:21:34 [32mserver run in http://0.0.0.0:3000[39m
-[[32minfo[39m] 2024-03-29 20:21:34 [32mdatabase connection successful[39m
-[[32minfo[39m] 2024-03-29 20:21:56 [32mserver run in http://0.0.0.0:3000[39m
-[[32minfo[39m] 2024-03-29 20:21:56 [32mdatabase connection successful[39m
-[[32minfo[39m] 2024-03-29 20:21:59 [32mE11000 duplicate key error collection: vars.users index: email_1 dup key: { email: "dantedev7@gmail.com" }[39m
-[[32minfo[39m] 2024-03-29 20:22:10 [32mserver run in http://0.0.0.0:3000[39m
-[[32minfo[39m] 2024-03-29 20:22:10 [32mdatabase connection successful[39m
-[[32minfo[39m] 2024-03-29 20:22:14 [32mE11000 duplicate key error collection: vars.users index: email_1 dup key: { email: "dantedev7@gmail.com" }[39m
-[[32minfo[39m] 2024-03-29 20:22:54 [32mserver run in http://0.0.0.0:3000[39m
-[[32minfo[39m] 2024-03-29 20:22:54 [32mdatabase connection successful[39m
-[[32minfo[39m] 2024-03-29 20:22:56 [32mserver run in http://0.0.0.0:3000[39m
-[[32minfo[39m] 2024-03-29 20:22:56 [32mdatabase connection successful[39m
-[[32minfo[39m] 2024-03-29 20:22:59 [32mE11000 duplicate key error collection: vars.users index: email_1 dup key: { email: "dantedev7@gmail.com" }[39m
-[[32minfo[39m] 2024-03-29 20:23:18 [32mserver run in http://0.0.0.0:3000[39m
-[[32minfo[39m] 2024-03-29 20:23:18 [32mdatabase connection successful[39m
-[[31merror[39m] 2024-03-29 20:23:18 [31muncaugth exception: SyntaxError: Named export 'MongooseServerError' not found. The requested module 'mongoose' is a CommonJS module, which may not support all module.exports as named exports.[39m
+[[32minfo[39m] 2024-04-01 19:25:12 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-01 19:25:12 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-04-01 19:26:19 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-01 19:26:19 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-04-01 19:27:55 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-01 19:27:55 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-04-01 19:28:05 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-01 19:28:05 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-04-01 19:31:03 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-01 19:31:03 [32mdatabase connection successful[39m
+[[31merror[39m] 2024-04-01 19:31:03 [31muncaugth exception: SyntaxError: Unexpected token '}'[39m
+[[32minfo[39m] 2024-04-01 19:31:22 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-01 19:31:22 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-04-01 19:31:34 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-01 19:31:34 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-04-01 19:31:48 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-01 19:31:48 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-04-01 19:32:18 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-01 19:32:18 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-04-01 19:32:21 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-01 19:32:21 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-04-01 19:32:34 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-01 19:32:34 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-04-01 19:40:32 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-01 19:40:32 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-04-01 19:40:34 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-01 19:40:34 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-04-01 19:41:21 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-01 19:41:21 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-04-01 19:42:36 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-01 19:42:36 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-04-01 19:44:15 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-01 19:44:15 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-04-01 19:44:24 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-01 19:44:24 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-04-01 19:46:22 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-01 19:46:22 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-04-01 19:46:30 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-01 19:46:30 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-04-01 19:46:37 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-01 19:46:37 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-04-01 19:46:44 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-01 19:46:44 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-04-01 19:46:51 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-01 19:46:51 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-04-01 19:47:47 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-01 19:47:47 [32mdatabase connection successful[39m
+[[31merror[39m] 2024-04-01 19:47:47 [31muncaugth exception: SyntaxError: Named export 'compare' not found. The requested module 'bcryptjs' is a CommonJS module, which may not support all module.exports as named exports.[39m
 [31mCommonJS modules can always be imported via the default export, for example using:[39m
 
-[31mimport pkg from 'mongoose';[39m
-[31mconst { MongooseServerError } = pkg;[39m
+[31mimport pkg from 'bcryptjs';[39m
+[31mconst { hash, compare } = pkg;[39m
 [31m[39m
-[[32minfo[39m] 2024-03-29 20:23:25 [32mserver run in http://0.0.0.0:3000[39m
-[[32minfo[39m] 2024-03-29 20:23:25 [32mdatabase connection successful[39m
-[[31merror[39m] 2024-03-29 20:23:25 [31muncaugth exception: SyntaxError: Named export 'MongooseServerError' not found. The requested module 'mongoose' is a CommonJS module, which may not support all module.exports as named exports.[39m
+[[32minfo[39m] 2024-04-01 19:47:51 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-01 19:47:51 [32mdatabase connection successful[39m
+[[31merror[39m] 2024-04-01 19:47:51 [31muncaugth exception: SyntaxError: Named export 'compare' not found. The requested module 'bcryptjs' is a CommonJS module, which may not support all module.exports as named exports.[39m
 [31mCommonJS modules can always be imported via the default export, for example using:[39m
 
-[31mimport pkg from 'mongoose';[39m
-[31mconst { MongooseServerError } = pkg;[39m
+[31mimport pkg from 'bcryptjs';[39m
+[31mconst { hash, compare } = pkg;[39m
 [31m[39m
-[[32minfo[39m] 2024-03-29 20:23:44 [32mserver run in http://0.0.0.0:3000[39m
-[[32minfo[39m] 2024-03-29 20:23:44 [32mdatabase connection successful[39m
-[[31merror[39m] 2024-03-29 20:23:44 [31muncaugth exception: SyntaxError: Named export 'MongooseServerError' not found. The requested module 'mongoose' is a CommonJS module, which may not support all module.exports as named exports.[39m
+[[32minfo[39m] 2024-04-01 19:48:26 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-01 19:48:26 [32mdatabase connection successful[39m
+[[31merror[39m] 2024-04-01 19:48:26 [31muncaugth exception: SyntaxError: Unexpected token '.'[39m
+[[32minfo[39m] 2024-04-01 19:48:51 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-01 19:48:51 [32mdatabase connection successful[39m
+[[31merror[39m] 2024-04-01 19:48:51 [31muncaugth exception: SyntaxError: Unexpected token '.'[39m
+[[32minfo[39m] 2024-04-01 19:49:19 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-01 19:49:19 [32mdatabase connection successful[39m
+[[31merror[39m] 2024-04-01 19:49:19 [31muncaugth exception: SyntaxError: Named export 'compare' not found. The requested module 'bcryptjs' is a CommonJS module, which may not support all module.exports as named exports.[39m
 [31mCommonJS modules can always be imported via the default export, for example using:[39m
 
-[31mimport pkg from 'mongoose';[39m
-[31mconst { MongooseServerError } = pkg;[39m
+[31mimport pkg from 'bcryptjs';[39m
+[31mconst { hash, compare } = pkg;[39m
 [31m[39m
-[[32minfo[39m] 2024-03-29 20:25:46 [32mserver run in http://0.0.0.0:3000[39m
-[[32minfo[39m] 2024-03-29 20:25:46 [32mdatabase connection successful[39m
-[[32minfo[39m] 2024-03-29 20:26:07 [32mserver run in http://0.0.0.0:3000[39m
-[[32minfo[39m] 2024-03-29 20:26:07 [32mdatabase connection successful[39m
-[[31merror[39m] 2024-03-29 20:26:11 [31mE11000 duplicate key error collection: vars.users index: email_1 dup key: { email: "dantedev7@gmail.com" }[39m
-[[32minfo[39m] 2024-03-29 20:26:49 [32mserver run in http://0.0.0.0:3000[39m
-[[32minfo[39m] 2024-03-29 20:26:49 [32mdatabase connection successful[39m
-[[32minfo[39m] 2024-03-29 20:27:14 [32mserver run in http://0.0.0.0:3000[39m
-[[32minfo[39m] 2024-03-29 20:27:14 [32mdatabase connection successful[39m
-[[31merror[39m] 2024-03-29 20:27:16 [31mE11000 duplicate key error collection: vars.users index: email_1 dup key: { email: "dantedev7@gmail.com" }[39m
-[[32minfo[39m] 2024-03-29 20:27:45 [32mserver run in http://0.0.0.0:3000[39m
-[[32minfo[39m] 2024-03-29 20:27:45 [32mdatabase connection successful[39m
-[[32minfo[39m] 2024-03-29 20:28:19 [32mserver run in http://0.0.0.0:3000[39m
-[[32minfo[39m] 2024-03-29 20:28:19 [32mdatabase connection successful[39m
-[[31merror[39m] 2024-03-29 20:28:22 [31mE11000 duplicate key error collection: vars.users index: email_1 dup key: { email: "dantedev7@gmail.com" }[39m
-[[32minfo[39m] 2024-03-29 20:30:50 [32mserver run in http://0.0.0.0:3000[39m
-[[32minfo[39m] 2024-03-29 20:30:50 [32mdatabase connection successful[39m
-[[31merror[39m] 2024-03-29 20:30:53 [31mE11000 duplicate key error collection: vars.users index: email_1 dup key: { email: "dantedev7@gmail.com" }[39m
-[[32minfo[39m] 2024-03-29 20:31:35 [32mserver run in http://0.0.0.0:3000[39m
-[[32minfo[39m] 2024-03-29 20:31:35 [32mdatabase connection successful[39m
-[[31merror[39m] 2024-03-29 20:31:38 [31mE11000 duplicate key error collection: vars.users index: email_1 dup key: { email: "dantedev7@gmail.com" }[39m
-[[32minfo[39m] 2024-03-29 20:32:19 [32mserver run in http://0.0.0.0:3000[39m
-[[32minfo[39m] 2024-03-29 20:32:19 [32mdatabase connection successful[39m
-[[31merror[39m] 2024-03-29 20:32:22 [31mE11000 duplicate key error collection: vars.users index: email_1 dup key: { email: "dantedev7@gmail.com" }[39m
-[[32minfo[39m] 2024-03-29 20:32:38 [32mserver run in http://0.0.0.0:3000[39m
-[[32minfo[39m] 2024-03-29 20:32:38 [32mdatabase connection successful[39m
-[[31merror[39m] 2024-03-29 20:32:43 [31mE11000 duplicate key error collection: vars.users index: email_1 dup key: { email: "dantedev7@gmail.com" }[39m
-[[32minfo[39m] 2024-03-29 20:32:50 [32mserver run in http://0.0.0.0:3000[39m
-[[32minfo[39m] 2024-03-29 20:32:50 [32mdatabase connection successful[39m
-[[31merror[39m] 2024-03-29 20:32:53 [31mE11000 duplicate key error collection: vars.users index: email_1 dup key: { email: "dantedev7@gmail.com" }[39m
-[[32minfo[39m] 2024-03-29 20:33:40 [32mserver run in http://0.0.0.0:3000[39m
-[[32minfo[39m] 2024-03-29 20:33:40 [32mdatabase connection successful[39m
-[[31merror[39m] 2024-03-29 20:33:44 [31mE11000 duplicate key error collection: vars.users index: email_1 dup key: { email: "dantedev7@gmail.com" }[39m
-[[32minfo[39m] 2024-03-29 20:34:19 [32mserver run in http://0.0.0.0:3000[39m
-[[32minfo[39m] 2024-03-29 20:34:19 [32mdatabase connection successful[39m
-[[31merror[39m] 2024-03-29 20:34:24 [31mE11000 duplicate key error collection: vars.users index: email_1 dup key: { email: "dantedev7@gmail.com" }[39m
-[[32minfo[39m] 2024-03-29 20:35:12 [32mserver run in http://0.0.0.0:3000[39m
-[[32minfo[39m] 2024-03-29 20:35:12 [32mdatabase connection successful[39m
-[[32minfo[39m] 2024-03-29 20:35:16 [32mserver run in http://0.0.0.0:3000[39m
-[[32minfo[39m] 2024-03-29 20:35:16 [32mdatabase connection successful[39m
-[[31merror[39m] 2024-03-29 20:35:19 [31mE11000 duplicate key error collection: vars.users index: email_1 dup key: { email: "dantedev7@gmail.com" }[39m
-[[32minfo[39m] 2024-03-29 20:37:17 [32mserver run in http://0.0.0.0:3000[39m
-[[32minfo[39m] 2024-03-29 20:37:17 [32mdatabase connection successful[39m
-[[31merror[39m] 2024-03-29 20:37:20 [31mE11000 duplicate key error collection: vars.users index: email_1 dup key: { email: "dantedev7@gmail.com" }[39m
-[[32minfo[39m] 2024-03-29 20:38:41 [32mserver run in http://0.0.0.0:3000[39m
-[[32minfo[39m] 2024-03-29 20:38:41 [32mdatabase connection successful[39m
-[[32minfo[39m] 2024-03-29 20:38:44 [32mserver run in http://0.0.0.0:3000[39m
-[[32minfo[39m] 2024-03-29 20:38:44 [32mdatabase connection successful[39m
-[[31merror[39m] 2024-03-29 20:38:48 [31mE11000 duplicate key error collection: vars.users index: email_1 dup key: { email: "dantedev7@gmail.com" }[39m
-[[32minfo[39m] 2024-03-29 20:39:20 [32mserver run in http://0.0.0.0:3000[39m
-[[32minfo[39m] 2024-03-29 20:39:20 [32mdatabase connection successful[39m
-[[32minfo[39m] 2024-03-29 20:39:53 [32mserver run in http://0.0.0.0:3000[39m
-[[32minfo[39m] 2024-03-29 20:39:54 [32mdatabase connection successful[39m
-[[32minfo[39m] 2024-03-29 20:40:15 [32mserver run in http://0.0.0.0:3000[39m
-[[32minfo[39m] 2024-03-29 20:40:15 [32mdatabase connection successful[39m
-[[31merror[39m] 2024-03-29 20:40:19 [31mE11000 duplicate key error collection: vars.users index: email_1 dup key: { email: "dantedev7@gmail.com" }[39m
-[[32minfo[39m] 2024-03-29 20:40:35 [32mserver run in http://0.0.0.0:3000[39m
-[[32minfo[39m] 2024-03-29 20:40:35 [32mdatabase connection successful[39m
-[[31merror[39m] 2024-03-29 20:40:35 [31muncaugth exception: SyntaxError: Unexpected token ')'[39m
-[[32minfo[39m] 2024-03-29 20:40:46 [32mserver run in http://0.0.0.0:3000[39m
-[[32minfo[39m] 2024-03-29 20:40:46 [32mdatabase connection successful[39m
-[[32minfo[39m] 2024-03-29 20:40:55 [32mserver run in http://0.0.0.0:3000[39m
-[[32minfo[39m] 2024-03-29 20:40:56 [32mdatabase connection successful[39m
-[[31merror[39m] 2024-03-29 20:41:22 [31muncaugth exception: RangeError [ERR_HTTP_INVALID_STATUS_CODE]: Invalid status code: { data: null, msg: undefined, errors: [Array] }[39m
-[[32minfo[39m] 2024-03-29 20:41:44 [32mserver run in http://0.0.0.0:3000[39m
-[[32minfo[39m] 2024-03-29 20:41:44 [32mdatabase connection successful[39m
-[[31merror[39m] 2024-03-29 20:41:46 [31muncaugth exception: TypeError: error is not iterable[39m
-[[32minfo[39m] 2024-03-29 20:41:56 [32mserver run in http://0.0.0.0:3000[39m
-[[32minfo[39m] 2024-03-29 20:41:56 [32mdatabase connection successful[39m
-[[31merror[39m] 2024-03-29 20:41:58 [31muncaugth exception: RangeError [ERR_HTTP_INVALID_STATUS_CODE]: Invalid status code: { data: null, msg: undefined, errors: [Array] }[39m
-[[32minfo[39m] 2024-03-29 20:42:12 [32mserver run in http://0.0.0.0:3000[39m
-[[32minfo[39m] 2024-03-29 20:42:12 [32mdatabase connection successful[39m
-[[32minfo[39m] 2024-03-29 20:43:00 [32mserver run in http://0.0.0.0:3000[39m
-[[32minfo[39m] 2024-03-29 20:43:00 [32mdatabase connection successful[39m
-[[31merror[39m] 2024-03-29 20:43:03 [31muncaugth exception: RangeError [ERR_HTTP_INVALID_STATUS_CODE]: Invalid status code: { data: null, msg: undefined, errors: [Array] }[39m
-[[32minfo[39m] 2024-03-29 20:43:27 [32mserver run in http://0.0.0.0:3000[39m
-[[32minfo[39m] 2024-03-29 20:43:27 [32mdatabase connection successful[39m
-[[31merror[39m] 2024-03-29 20:43:31 [31muncaugth exception: RangeError [ERR_HTTP_INVALID_STATUS_CODE]: Invalid status code: { data: null, msg: undefined, errors: [Array] }[39m
-[[32minfo[39m] 2024-03-29 20:44:05 [32mserver run in http://0.0.0.0:3000[39m
-[[32minfo[39m] 2024-03-29 20:44:05 [32mdatabase connection successful[39m
-[[32minfo[39m] 2024-03-29 20:44:16 [32mserver run in http://0.0.0.0:3000[39m
-[[32minfo[39m] 2024-03-29 20:44:16 [32mdatabase connection successful[39m
-[[32minfo[39m] 2024-03-29 20:44:24 [32mserver run in http://0.0.0.0:3000[39m
-[[32minfo[39m] 2024-03-29 20:44:24 [32mdatabase connection successful[39m
-[[32minfo[39m] 2024-03-29 20:44:42 [32mserver run in http://0.0.0.0:3000[39m
-[[32minfo[39m] 2024-03-29 20:44:42 [32mdatabase connection successful[39m
-[[32minfo[39m] 2024-03-29 20:44:48 [32mserver run in http://0.0.0.0:3000[39m
-[[32minfo[39m] 2024-03-29 20:44:48 [32mdatabase connection successful[39m
-[[32minfo[39m] 2024-03-29 20:45:19 [32mserver run in http://0.0.0.0:3000[39m
-[[32minfo[39m] 2024-03-29 20:45:19 [32mdatabase connection successful[39m
-[[31merror[39m] 2024-03-29 20:45:24 [31muncaugth exception: RangeError [ERR_HTTP_INVALID_STATUS_CODE]: Invalid status code: { data: null, msg: undefined, errors: [Array] }[39m
-[[32minfo[39m] 2024-03-29 20:45:37 [32mserver run in http://0.0.0.0:3000[39m
-[[32minfo[39m] 2024-03-29 20:45:37 [32mdatabase connection successful[39m
-[[32minfo[39m] 2024-03-29 20:45:42 [32mserver run in http://0.0.0.0:3000[39m
-[[32minfo[39m] 2024-03-29 20:45:42 [32mdatabase connection successful[39m
-[[32minfo[39m] 2024-03-29 20:45:47 [32mserver run in http://0.0.0.0:3000[39m
-[[32minfo[39m] 2024-03-29 20:45:47 [32mdatabase connection successful[39m
-[[31merror[39m] 2024-03-29 20:45:51 [31muncaugth exception: RangeError [ERR_HTTP_INVALID_STATUS_CODE]: Invalid status code: { data: null, msg: undefined, errors: [Array] }[39m
-[[32minfo[39m] 2024-03-29 20:46:24 [32mserver run in http://0.0.0.0:3000[39m
-[[32minfo[39m] 2024-03-29 20:46:25 [32mdatabase connection successful[39m
-[[32minfo[39m] 2024-03-29 20:47:04 [32mserver run in http://0.0.0.0:3000[39m
-[[32minfo[39m] 2024-03-29 20:47:04 [32mdatabase connection successful[39m
-[[32minfo[39m] 2024-03-29 20:47:16 [32mserver run in http://0.0.0.0:3000[39m
-[[32minfo[39m] 2024-03-29 20:47:16 [32mdatabase connection successful[39m
-[[32minfo[39m] 2024-03-29 20:47:22 [32mserver run in http://0.0.0.0:3000[39m
-[[32minfo[39m] 2024-03-29 20:47:22 [32mdatabase connection successful[39m
-[[32minfo[39m] 2024-03-29 20:48:11 [32mserver run in http://0.0.0.0:3000[39m
-[[32minfo[39m] 2024-03-29 20:48:11 [32mdatabase connection successful[39m
-[[32minfo[39m] 2024-03-29 20:48:49 [32mserver run in http://0.0.0.0:3000[39m
-[[32minfo[39m] 2024-03-29 20:48:49 [32mdatabase connection successful[39m
-[[32minfo[39m] 2024-03-29 20:48:57 [32mserver run in http://0.0.0.0:3000[39m
-[[32minfo[39m] 2024-03-29 20:48:57 [32mdatabase connection successful[39m
-[[32minfo[39m] 2024-03-29 20:49:18 [32mserver run in http://0.0.0.0:3000[39m
-[[32minfo[39m] 2024-03-29 20:49:19 [32mdatabase connection successful[39m
-[[32minfo[39m] 2024-03-29 20:49:50 [32mserver run in http://0.0.0.0:3000[39m
-[[32minfo[39m] 2024-03-29 20:49:50 [32mdatabase connection successful[39m
-[[32minfo[39m] 2024-03-29 20:51:08 [32mserver run in http://0.0.0.0:3000[39m
-[[32minfo[39m] 2024-03-29 20:51:08 [32mdatabase connection successful[39m
-[[32minfo[39m] 2024-03-29 20:51:10 [32mserver run in http://0.0.0.0:3000[39m
-[[32minfo[39m] 2024-03-29 20:51:10 [32mdatabase connection successful[39m
-[[32minfo[39m] 2024-03-29 20:51:56 [32mserver run in http://0.0.0.0:3000[39m
-[[32minfo[39m] 2024-03-29 20:51:56 [32mdatabase connection successful[39m
-[[32minfo[39m] 2024-03-29 20:52:09 [32mserver run in http://0.0.0.0:3000[39m
-[[32minfo[39m] 2024-03-29 20:52:09 [32mdatabase connection successful[39m
-[[32minfo[39m] 2024-03-29 20:52:41 [32mserver run in http://0.0.0.0:3000[39m
-[[32minfo[39m] 2024-03-29 20:52:41 [32mdatabase connection successful[39m
-[[32minfo[39m] 2024-03-29 20:52:50 [32mserver run in http://0.0.0.0:3000[39m
-[[32minfo[39m] 2024-03-29 20:52:50 [32mdatabase connection successful[39m
-[[32minfo[39m] 2024-03-29 20:52:59 [32mserver run in http://0.0.0.0:3000[39m
-[[32minfo[39m] 2024-03-29 20:52:59 [32mdatabase connection successful[39m
-[[32minfo[39m] 2024-03-29 20:53:03 [32mserver run in http://0.0.0.0:3000[39m
-[[32minfo[39m] 2024-03-29 20:53:03 [32mdatabase connection successful[39m
-[[32minfo[39m] 2024-03-29 20:53:26 [32mserver run in http://0.0.0.0:3000[39m
-[[32minfo[39m] 2024-03-29 20:53:26 [32mdatabase connection successful[39m
-[[32minfo[39m] 2024-03-29 20:54:18 [32mserver run in http://0.0.0.0:3000[39m
-[[32minfo[39m] 2024-03-29 20:54:18 [32mdatabase connection successful[39m
-[[32minfo[39m] 2024-03-29 20:54:30 [32mserver run in http://0.0.0.0:3000[39m
-[[32minfo[39m] 2024-03-29 20:54:31 [32mdatabase connection successful[39m
-[[32minfo[39m] 2024-03-29 20:54:54 [32mserver run in http://0.0.0.0:3000[39m
-[[32minfo[39m] 2024-03-29 20:54:54 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-04-01 19:51:14 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-01 19:51:14 [32mdatabase connection successful[39m
+[[31merror[39m] 2024-04-01 19:51:14 [31muncaugth exception: SyntaxError: Named export 'compare' not found. The requested module 'bcryptjs' is a CommonJS module, which may not support all module.exports as named exports.[39m
+[31mCommonJS modules can always be imported via the default export, for example using:[39m
+
+[31mimport pkg from 'bcryptjs';[39m
+[31mconst { hash, compare } = pkg;[39m
+[31m[39m
+[[32minfo[39m] 2024-04-01 19:51:36 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-01 19:51:36 [32mdatabase connection successful[39m
+[[31merror[39m] 2024-04-01 19:51:36 [31muncaugth exception: SyntaxError: Named export 'compare' not found. The requested module 'bcryptjs' is a CommonJS module, which may not support all module.exports as named exports.[39m
+[31mCommonJS modules can always be imported via the default export, for example using:[39m
+
+[31mimport pkg from 'bcryptjs';[39m
+[31mconst { hash, compare } = pkg;[39m
+[31m[39m
+[[32minfo[39m] 2024-04-01 19:52:03 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-01 19:52:03 [32mdatabase connection successful[39m
+[[31merror[39m] 2024-04-01 19:52:03 [31muncaugth exception: SyntaxError: Unexpected token ';'[39m
+[[32minfo[39m] 2024-04-01 19:52:08 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-01 19:52:08 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-04-01 19:52:45 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-01 19:52:45 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-04-01 19:53:59 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-01 19:53:59 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-04-01 19:56:07 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-01 19:56:08 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-04-01 19:56:43 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-01 19:56:43 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-04-01 19:57:41 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-01 19:57:41 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-04-01 19:58:01 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-01 19:58:01 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-04-01 19:58:07 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-01 19:58:07 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-04-01 19:58:19 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-01 19:58:19 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-04-01 20:00:51 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-01 20:00:51 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-04-01 20:02:15 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-01 20:02:15 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-04-01 20:03:12 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-01 20:03:12 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-04-01 20:03:28 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-01 20:03:28 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-04-01 20:03:46 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-01 20:03:46 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-04-01 20:05:25 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-01 20:05:26 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-04-01 20:06:15 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-01 20:06:15 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-04-01 20:06:29 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-01 20:06:29 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-04-01 20:07:58 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-01 20:07:58 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-04-01 20:08:41 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-01 20:08:41 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-04-01 20:09:27 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-01 20:09:27 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-04-01 20:10:06 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-01 20:10:07 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-04-01 20:10:20 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-01 20:10:20 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-04-01 20:10:30 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-01 20:10:30 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-04-01 20:11:18 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-01 20:11:18 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-04-01 20:12:19 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-01 20:12:19 [32mdatabase connection successful[39m
+[[31merror[39m] 2024-04-01 20:12:19 [31muncaugth exception: SyntaxError: The requested module '../../libs/hashing/hash.js' does not provide an export named 'isGenerateHasWithString'[39m
+[[32minfo[39m] 2024-04-01 20:12:22 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-01 20:12:22 [32mdatabase connection successful[39m
+[[31merror[39m] 2024-04-01 20:12:22 [31muncaugth exception: SyntaxError: The requested module '../../libs/hashing/hash.js' does not provide an export named 'isGenerateHasWithString'[39m
+[[32minfo[39m] 2024-04-01 20:12:29 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-01 20:12:29 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-04-01 20:13:05 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-01 20:13:05 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-04-01 20:13:39 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-01 20:13:39 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-04-01 20:14:00 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-01 20:14:00 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-04-01 20:14:53 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-01 20:14:53 [32mdatabase connection successful[39m
+[[31merror[39m] 2024-04-01 20:14:53 [31muncaugth exception: SyntaxError: Unexpected token '}'[39m
+[[32minfo[39m] 2024-04-01 20:15:23 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-01 20:15:23 [32mdatabase connection successful[39m
+[[31merror[39m] 2024-04-01 20:15:23 [31muncaugth exception: SyntaxError: Unexpected token '}'[39m
+[[32minfo[39m] 2024-04-01 20:16:22 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-01 20:16:22 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-04-01 20:17:21 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-01 20:17:21 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-04-01 20:17:28 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-01 20:17:28 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-04-01 20:17:41 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-01 20:17:41 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-04-01 20:17:46 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-01 20:17:47 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-04-01 20:18:18 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-01 20:18:18 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-04-01 20:18:19 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-01 20:18:19 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-04-01 20:18:53 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-01 20:18:53 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-04-01 20:19:15 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-01 20:19:15 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-04-01 20:19:22 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-01 20:19:23 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-04-01 20:19:41 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-01 20:19:41 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-04-01 20:20:33 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-01 20:20:33 [32mdatabase connection successful[39m
+[[31merror[39m] 2024-04-01 20:21:09 [31mIllegal arguments: string, undefined[39m
+[[32minfo[39m] 2024-04-01 20:22:29 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-01 20:22:30 [32mdatabase connection successful[39m
+[[31merror[39m] 2024-04-01 20:22:32 [31mIllegal arguments: string, undefined[39m
+[[32minfo[39m] 2024-04-01 20:23:24 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-01 20:23:25 [32mdatabase connection successful[39m
+[[31merror[39m] 2024-04-01 20:23:27 [31mIllegal arguments: string, undefined[39m
+[[32minfo[39m] 2024-04-01 20:23:42 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-01 20:23:42 [32mdatabase connection successful[39m
+[[31merror[39m] 2024-04-01 20:23:47 [31mIllegal arguments: string, undefined[39m
+[[32minfo[39m] 2024-04-01 20:24:34 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-01 20:24:34 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-04-01 20:24:54 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-01 20:24:54 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-04-01 20:25:12 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-01 20:25:12 [32mdatabase connection successful[39m
+[[31merror[39m] 2024-04-01 20:25:14 [31mIllegal arguments: string, undefined[39m
+[[32minfo[39m] 2024-04-01 20:25:48 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-01 20:25:48 [32mdatabase connection successful[39m
+[[31merror[39m] 2024-04-01 20:25:53 [31mIllegal arguments: string, undefined[39m
+[[32minfo[39m] 2024-04-01 20:26:40 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-01 20:26:40 [32mdatabase connection successful[39m
+[[31merror[39m] 2024-04-01 20:26:46 [31mIllegal arguments: string, undefined[39m
+[[32minfo[39m] 2024-04-01 20:27:01 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-01 20:27:01 [32mdatabase connection successful[39m
+[[31merror[39m] 2024-04-01 20:27:04 [31mIllegal arguments: string, undefined[39m
+[[32minfo[39m] 2024-04-01 20:27:31 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-01 20:27:31 [32mdatabase connection successful[39m
+[[31merror[39m] 2024-04-01 20:27:34 [31mIllegal arguments: string, undefined[39m
+[[32minfo[39m] 2024-04-01 20:27:55 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-01 20:27:55 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-04-01 20:28:06 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-01 20:28:06 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-04-01 20:28:29 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-01 20:28:29 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-04-01 20:28:50 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-01 20:28:50 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-04-01 20:28:55 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-01 20:28:55 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-04-01 20:29:33 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-01 20:29:33 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-04-01 20:29:36 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-01 20:29:36 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-04-01 20:29:44 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-01 20:29:44 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-04-01 20:32:51 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-01 20:32:51 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-04-01 20:33:57 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-01 20:33:57 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-04-01 20:34:06 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-01 20:34:06 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-04-01 20:34:28 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-01 20:34:28 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-04-01 20:34:38 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-01 20:34:38 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-04-01 20:34:45 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-01 20:34:45 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-04-01 20:36:00 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-01 20:36:00 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-04-01 20:36:20 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-01 20:36:20 [32mdatabase connection successful[39m
+[[31merror[39m] 2024-04-01 20:36:21 [31muncaugth exception: ReferenceError: validateToken is not defined[39m
+[[32minfo[39m] 2024-04-01 20:37:00 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-01 20:37:00 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-04-01 20:37:13 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-01 20:37:13 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-04-01 20:37:57 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-01 20:37:57 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-04-01 20:38:10 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-01 20:38:10 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-04-01 20:38:43 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-01 20:38:43 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-04-01 20:39:02 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-01 20:39:02 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-04-01 20:39:22 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-01 20:39:22 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-04-01 20:40:34 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-01 20:40:34 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-04-01 20:40:48 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-01 20:40:48 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-04-01 20:40:54 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-01 20:40:54 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-04-01 20:41:03 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-01 20:41:03 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-04-01 20:41:08 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-01 20:41:08 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-04-01 20:41:20 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-01 20:41:20 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-04-01 20:41:27 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-01 20:41:27 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-04-01 20:41:53 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-01 20:41:53 [32mdatabase connection successful[39m
+[[31merror[39m] 2024-04-01 20:42:01 [31muncaugth exception: TypeError: Cannot set properties of undefined (setting 'role')[39m
+[[32minfo[39m] 2024-04-01 20:43:02 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-01 20:43:02 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-04-01 20:43:13 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-01 20:43:13 [32mdatabase connection successful[39m
+[[31merror[39m] 2024-04-01 20:43:17 [31muncaugth exception: TypeError: Cannot set properties of undefined (setting 'role')[39m
+[[32minfo[39m] 2024-04-01 20:44:01 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-01 20:44:01 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-04-01 20:44:06 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-01 20:44:06 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-04-01 20:44:34 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-01 20:44:34 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-04-01 20:45:03 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-01 20:45:03 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-04-01 20:45:19 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-01 20:45:19 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-04-01 20:45:26 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-01 20:45:26 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-04-01 20:46:23 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-01 20:46:23 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-04-01 20:46:32 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-01 20:46:32 [32mdatabase connection successful[39m

@@ -32,4 +32,4 @@ const model = new Schema(
   }
 );
 
-export default mongoose.models.addictions || mongoose.model('addictions', model);
+export default mongoose.model('addictions', model);

@@ -28,4 +28,4 @@ const model = new Schema(
   }
 );
 
-export default mongoose.models.addictions || mongoose.model('notifications', model);
+export default mongoose.model('notifications', model);
