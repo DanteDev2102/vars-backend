@@ -5,14 +5,12 @@ function getPatient(user) {
     lastname: user.lastname,
     email: user.email,
     role: user.role,
-    addictionId: user.addictionId,
     notes: user.notes,
     goals: user.goals,
     context: user.context,
     profileUrl: user.profileUrl,
     isTreatment: user.isTreatment,
-    treatment: user.treatment,
-    professional: user.professional
+    treatment: user.treatment
   };
 }
 
@@ -24,7 +22,6 @@ function getProfessional(user) {
     email: user.email,
     role: user.role,
     profileUrl: user.profileUrl,
-    patients: user.patients,
     nroDoctor: user.nroDoctor
   };
 }
