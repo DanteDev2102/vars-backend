@@ -18,8 +18,6 @@ router.use(validateToken);
 
 router.get('/me', me);
 
-router.get('/professionals', validateRole('patient'), getProfessionals);
-
 router.get('/me/patients', validateRole('professional'), getMyPatients);
 
 router.get('/me/professional', validateRole('patient'), getMyProfessional);

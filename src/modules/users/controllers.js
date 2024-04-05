@@ -43,47 +43,13 @@ export async function updateProfile(req, res) {
   }
 }
 
-export async function getProfessionals(req, res) {
-  try {
-    const page = +req.query.page;
-
-    const limit = 20;
-    const offset = (page - 1) * limit;
-    const nextPage = page + 1;
-    const prevPage = page - 1;
-
-    const professionals = await usersModel
-      .find({ isActive: true, role: 'professional' })
-      .sort({ name: 'asc' })
-      .limit(limit)
-      .skip(offset);
-
-    if (!professionals.length) {
-      return res.status(404).json(responseSuccess({ users: [] }, 'not found'));
-    }
-
-    const count = await usersModel.find({ isActive: true, role: 'professional' }).countDocuments();
-
-    res.json(
-      responseSuccess(
-        {
-          count,
-          nextPage,
-          prevPage: prevPage === 0 ? null : prevPage,
-          users: professionals.map(getDataUser)
-        },
-        'success professionals'
-      )
-    );
-  } catch (error) {
-    logger.error(error);
-    res.status(500).json(responseError(null, 'internal error'));
-  }
-}
-
 export async function getMyPatients(req, res) {
   try {
     const { patients } = await usersModel.findOne({ isActive: true, email: req.user.email }).populate('patients');
+
+    if (!patients.length) {
+      return res.status(404).json(responseSuccess({ users: [] }, 'not found'));
+    }
 
     res.json(responseSuccess({ users: patients.map(getDataUser) }, 'success patients'));
   } catch (error) {
@@ -97,6 +63,10 @@ export async function getMyProfessional(req, res) {
     const { professional } = await usersModel
       .findOne({ isActive: true, email: req.user.email })
       .populate('professional');
+
+    if (!Object.keys(professional).length) {
+      return res.json(responseSuccess(null, 'not professional asigment'));
+    }
 
     res.json(responseSuccess({ user: getDataUser(professional) }, 'success professional'));
   } catch (error) {
