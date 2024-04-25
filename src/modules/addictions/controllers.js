@@ -19,33 +19,3 @@ export async function create(req, res) {
     res.status(500).json(responseError(null, 'internal error'));
   }
 }
-
-export async function signin(req, res) {
-  try {
-    const { body } = req;
-
-    const user = await usersModel.findOne({
-      email: body.email
-    });
-
-    if (!user) {
-      return res
-        .status(403)
-        .json(responseError([{ code: 'server-403', description: 'wrong credentials' }], 'wrong credentials'));
-    }
-
-    const isCorrectPassword = await isGenerateHashWithString(body.password, user.password);
-    if (!isCorrectPassword) {
-      return res
-        .status(403)
-        .json(responseError([{ code: 'server-403', description: 'wrong credentials' }], 'wrong credentials'));
-    }
-
-    const jwt = await generateJWT({ email: user.email, role: user.role });
-
-    res.json(responseSuccess({ user: getDataUser(user), accessToken: jwt }, 'signin successfull'));
-  } catch (error) {
-    logger.error(error);
-    res.status(500).json(responseError(null, 'internal error'));
-  }
-}
