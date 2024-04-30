@@ -17,7 +17,7 @@ const model = new Schema(
         url: Types.String,
         title: Types.String,
         description: Types.String,
-        isActive: Types.String
+        isActive: Types.Boolean
       }
     ],
     isActive: {

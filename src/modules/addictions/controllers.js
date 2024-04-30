@@ -19,3 +19,37 @@ export async function create(req, res) {
     res.status(500).json(responseError(null, 'internal error'));
   }
 }
+
+export async function getAll(_, res) {
+  try {
+    const addictions = await addictionsModel.find({ isActive: true });
+
+    if (!addictions.length) {
+      return res.status(404).json(responseError([{ description: 'NOT FOUND', code: 'db-404' }], 'NOT FOUND'));
+    }
+
+    res
+      .status(200)
+      .json(responseSuccess({ addictions: addictions.map(({ name, id }) => ({ name, id })) }, 'success find records'));
+  } catch (error) {
+    logger.error(error);
+
+    res.status(500).json(responseError(null, 'internal error'));
+  }
+}
+
+export async function getById(req, res) {
+  try {
+    const addiction = await addictionsModel.findById(req.params.id, { isActive: true });
+
+    if (!addiction) {
+      return res.status(404).json(responseError([{ description: 'NOT FOUND', code: 'db-404' }], 'NOT FOUND'));
+    }
+
+    res.status(200).json(responseSuccess({ addiction }, 'success'));
+  } catch (error) {
+    logger.error(error);
+
+    res.status(500).json(responseError(null, 'internal error'));
+  }
+}

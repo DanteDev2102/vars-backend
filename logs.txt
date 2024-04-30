@@ -519,3 +519,92 @@
 [[31merror[39m] 2024-04-24 22:01:01 [31muncaugth exception: ReferenceError: signin is not defined[39m
 [[32minfo[39m] 2024-04-24 22:01:07 [32mserver run in http://0.0.0.0:3000[39m
 [[32minfo[39m] 2024-04-24 22:01:07 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-04-30 10:41:48 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-30 10:41:48 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-04-30 11:34:33 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-30 11:34:33 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-04-30 11:34:54 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-30 11:34:54 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-04-30 11:35:10 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-30 11:35:10 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-04-30 11:35:52 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-30 11:35:52 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-04-30 11:36:48 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-30 11:36:48 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-04-30 11:36:55 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-30 11:36:55 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-04-30 11:40:53 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-30 11:40:53 [32mdatabase connection successful[39m
+[[31merror[39m] 2024-04-30 11:40:53 [31muncaugth exception: ReferenceError: getAll is not defined[39m
+[[32minfo[39m] 2024-04-30 11:40:57 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-30 11:40:57 [32mdatabase connection successful[39m
+[[31merror[39m] 2024-04-30 11:40:58 [31muncaugth exception: SyntaxError: The requested module './controllers.js' does not provide an export named 'getAll'[39m
+[[32minfo[39m] 2024-04-30 11:58:30 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-30 11:58:30 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-04-30 11:59:37 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-30 11:59:37 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-04-30 12:00:19 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-30 12:00:19 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-04-30 12:01:40 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-30 12:01:40 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-04-30 12:01:54 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-30 12:01:55 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-04-30 12:02:07 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-30 12:02:07 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-04-30 12:03:14 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-30 12:03:14 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-04-30 12:05:05 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-30 12:05:05 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-04-30 12:06:00 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-30 12:06:00 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-04-30 12:06:27 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-30 12:06:27 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-04-30 12:07:09 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-30 12:07:09 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-04-30 12:07:41 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-30 12:07:41 [32mdatabase connection successful[39m
+[[31merror[39m] 2024-04-30 12:07:41 [31muncaugth exception: SyntaxError: Unexpected end of input[39m
+[[32minfo[39m] 2024-04-30 12:07:44 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-30 12:07:44 [32mdatabase connection successful[39m
+[[31merror[39m] 2024-04-30 12:07:44 [31muncaugth exception: SyntaxError: Unexpected end of input[39m
+[[32minfo[39m] 2024-04-30 12:08:53 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-30 12:08:53 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-04-30 12:09:03 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-30 12:09:03 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-04-30 12:09:17 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-30 12:09:17 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-04-30 12:09:34 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-30 12:09:34 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-04-30 12:09:48 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-30 12:09:48 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-04-30 12:09:57 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-30 12:09:57 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-04-30 12:10:52 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-30 12:10:52 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-04-30 15:41:21 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-30 15:41:21 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-04-30 15:41:32 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-30 15:41:32 [32mdatabase connection successful[39m
+[[31merror[39m] 2024-04-30 15:41:32 [31muncaugth exception: SyntaxError: Unexpected token ')'[39m
+[[32minfo[39m] 2024-04-30 15:41:41 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-30 15:41:41 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-04-30 15:42:51 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-30 15:42:51 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-04-30 15:43:30 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-30 15:43:30 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-04-30 15:43:36 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-30 15:43:36 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-04-30 15:44:12 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-30 15:44:12 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-04-30 15:45:02 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-30 15:45:03 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-04-30 15:46:40 [32mserver run in http://0.0.0.0:3000[39m
+[[31merror[39m] 2024-04-30 15:46:40 [31muncaugth exception: SyntaxError: Unexpected token 'const'[39m
+[[32minfo[39m] 2024-04-30 15:47:32 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-30 15:47:32 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-04-30 15:48:43 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-30 15:48:43 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-04-30 15:49:09 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-30 15:49:09 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-04-30 15:52:32 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-30 15:52:32 [32mdatabase connection successful[39m
