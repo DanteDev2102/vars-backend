@@ -6,7 +6,8 @@
   "private": true,
   "type": "module",
   "scripts": {
-    "dev": "clear && nodemon src/main.js"
+    "dev:local": "clear && nodemon src/main.js",
+    "start": "node src/main.js"
   },
   "dependencies": {
     "bcryptjs": "^2.4.3",

@@ -60,15 +60,13 @@ export async function getMyPatients(req, res) {
 
 export async function getMyProfessional(req, res) {
   try {
-    const { professional } = await usersModel
-      .findOne({ isActive: true, email: req.user.email })
-      .populate('professional');
+    const user = await usersModel.findOne({ isActive: true, email: req.user.email }).populate('professional');
 
-    if (!Object.keys(professional).length) {
+    if (!Object.keys(user).length || !user.professional) {
       return res.json(responseSuccess(null, 'not professional asigment'));
     }
 
-    res.json(responseSuccess({ user: getDataUser(professional) }, 'success professional'));
+    res.json(responseSuccess({ user: getDataUser(user) }, 'success professional'));
   } catch (error) {
     logger.error(error);
     res.status(500).json(responseError(null, 'internal error'));
@@ -85,3 +83,15 @@ export async function getMyAddiction(req, res) {
     res.status(500).json(responseError(null, 'internal error'));
   }
 }
+
+//TODO
+
+export async function createGoal(req, res) {}
+
+export async function completeGoal(req, res) {}
+
+export async function createNote(req, res) {}
+
+export async function getPeriodNotes(req, res) {}
+
+export async function getPeriodGoals(req, res) {}

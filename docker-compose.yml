@@ -1,5 +1,21 @@
-version: '3'
 services:
+  app:
+    build:
+      context: .
+    container_name: ${PROJECT_NAME}
+    command: yarn start
+    ports:
+      - 80:${PORT_SERVER}
+    volumes:
+      - ./:/app
+    depends_on:
+      - db
+    environment:
+      - PORT_SERVER=${PORT_SERVER}
+      - HOST_SERVER=${HOST_SERVER}
+      - HOST_DB=${HOST_DB}
+      - PORT_DB=${PORT_DB}
+      - NAME_DB=${NAME_DB}
   db:
     container_name: ${PROJECT_NAME}_db
     image: mongo:6-jammy

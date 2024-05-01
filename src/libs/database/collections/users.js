@@ -37,14 +37,21 @@ const model = new Schema(
     notes: [
       {
         description: Types.String,
-        emotion: Types.Number
+        emotion: Types.Number,
+        date: Types.Date
       }
     ],
     goals: [
       {
+        id: {
+          type: Types.Number,
+          required: true,
+          unique: true
+        },
         title: Types.String,
         description: Types.String,
-        isComplete: Types.String
+        isComplete: Types.String,
+        date: Types.Date
       }
     ],
     isActive: {

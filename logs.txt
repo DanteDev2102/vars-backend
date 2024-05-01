@@ -608,3 +608,73 @@
 [[32minfo[39m] 2024-04-30 15:49:09 [32mdatabase connection successful[39m
 [[32minfo[39m] 2024-04-30 15:52:32 [32mserver run in http://0.0.0.0:3000[39m
 [[32minfo[39m] 2024-04-30 15:52:32 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-04-30 19:58:06 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-04-30 19:58:06 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-05-01 11:19:37 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-05-01 11:19:37 [32mdatabase connection successful[39m
+[[31merror[39m] 2024-05-01 11:19:37 [31muncaugth exception: TypeError: Router.use() requires a middleware function but got a undefined[39m
+[[32minfo[39m] 2024-05-01 11:21:18 [32mserver run in http://0.0.0.0:3000[39m
+[[31merror[39m] 2024-05-01 11:21:18 [31muncaugth exception: Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/home/dante/Documentos/Projects/vars/backend/src/modules/posts/controllers.js' imported from /home/dante/Documentos/Projects/vars/backend/src/modules/posts/routes.js[39m
+[[32minfo[39m] 2024-05-01 11:21:24 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-05-01 11:21:24 [32mdatabase connection successful[39m
+[[31merror[39m] 2024-05-01 11:21:30 [31mE11000 duplicate key error collection: vars.users index: email_1 dup key: { email: "jdap.dmc8@gmail.com" }[39m
+[[31merror[39m] 2024-05-01 11:21:41 [31mE11000 duplicate key error collection: vars.users index: email_1 dup key: { email: "jdap.dmc8@gmail.com" }[39m
+[[31merror[39m] 2024-05-01 11:22:08 [31muncaugth exception: JWTExpired: "exp" claim timestamp check failed[39m
+[[32minfo[39m] 2024-05-01 11:23:12 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-05-01 11:23:12 [32mdatabase connection successful[39m
+[[31merror[39m] 2024-05-01 11:23:15 [31muncaugth exception: JWTExpired: "exp" claim timestamp check failed[39m
+[[32minfo[39m] 2024-05-01 11:24:03 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-05-01 11:24:03 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-05-01 11:24:09 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-05-01 11:24:09 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-05-01 11:24:24 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-05-01 11:24:24 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-05-01 11:24:31 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-05-01 11:24:31 [32mdatabase connection successful[39m
+[[31merror[39m] 2024-05-01 11:24:34 [31muncaugth exception: JWTExpired: "exp" claim timestamp check failed[39m
+[[32minfo[39m] 2024-05-01 11:24:47 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-05-01 11:24:47 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-05-01 11:24:52 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-05-01 11:24:52 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-05-01 11:25:01 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-05-01 11:25:01 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-05-01 11:26:18 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-05-01 11:26:19 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-05-01 11:26:29 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-05-01 11:26:29 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-05-01 11:26:59 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-05-01 11:26:59 [32mdatabase connection successful[39m
+[[31merror[39m] 2024-05-01 11:27:05 [31m"exp" claim timestamp check failed[39m
+[[32minfo[39m] 2024-05-01 11:27:25 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-05-01 11:27:25 [32mdatabase connection successful[39m
+[[31merror[39m] 2024-05-01 11:27:29 [31m"exp" claim timestamp check failed[39m
+[[31merror[39m] 2024-05-01 11:29:06 [31m"exp" claim timestamp check failed[39m
+[[32minfo[39m] 2024-05-01 11:34:34 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-05-01 11:34:34 [32mdatabase connection successful[39m
+[[31merror[39m] 2024-05-01 11:35:06 [31mCannot convert undefined or null to object[39m
+[[32minfo[39m] 2024-05-01 11:35:54 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-05-01 11:35:54 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-05-01 11:36:11 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-05-01 11:36:11 [32mdatabase connection successful[39m
+[[31merror[39m] 2024-05-01 11:36:14 [31mCannot convert undefined or null to object[39m
+[[32minfo[39m] 2024-05-01 11:36:34 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-05-01 11:36:34 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-05-01 11:36:44 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-05-01 11:36:44 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-05-01 11:36:53 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-05-01 11:36:53 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-05-01 11:39:43 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-05-01 11:39:43 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-05-01 11:42:30 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-05-01 11:42:30 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-05-01 11:42:58 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-05-01 11:42:58 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-05-01 11:43:31 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-05-01 11:43:31 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-05-01 11:45:24 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-05-01 11:45:24 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-05-01 11:46:01 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-05-01 11:46:01 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-05-01 12:16:32 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-05-01 12:16:32 [32mdatabase connection successful[39m
+[[32minfo[39m] 2024-05-01 16:47:54 [32mserver run in http://0.0.0.0:3000[39m
