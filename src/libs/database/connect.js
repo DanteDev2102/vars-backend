@@ -4,8 +4,8 @@ import { serverConfig } from '../../config/server.js';
 import { logger } from '../logging/logger.js';
 
 export async function connectDB(tries = 0) {
-  const { dbName, dbHost, dbPort } = serverConfig;
-  const uri = `${dbHost}:${dbPort}/${dbName}`;
+  const { dbName } = serverConfig;
+  const uri = `mongodb://vars_db/${dbName}`;
 
   try {
     mongoose.connect(uri);

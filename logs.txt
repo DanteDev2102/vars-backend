@@ -678,3 +678,7 @@
 [[32minfo[39m] 2024-05-01 12:16:32 [32mserver run in http://0.0.0.0:3000[39m
 [[32minfo[39m] 2024-05-01 12:16:32 [32mdatabase connection successful[39m
 [[32minfo[39m] 2024-05-01 16:47:54 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-05-01 16:55:59 [32mserver run in http://0.0.0.0:3000[39m
+[[31merror[39m] 2024-05-01 16:56:29 [31mconnection to the database has not been possible[39m
+[[32minfo[39m] 2024-05-01 17:01:19 [32mserver run in http://0.0.0.0:3000[39m
+[[32minfo[39m] 2024-05-01 17:01:19 [32mdatabase connection successful[39m
