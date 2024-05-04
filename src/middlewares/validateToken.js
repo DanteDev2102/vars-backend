@@ -18,7 +18,8 @@ export async function validateToken(req, res, next) {
 
     req.user = {
       email: payload.email,
-      role: payload.role
+      role: payload.role,
+      id: payload.id
     };
 
     next();

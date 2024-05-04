@@ -3,7 +3,7 @@ services:
     build:
       context: .
     container_name: ${PROJECT_NAME}
-    command: yarn start
+    command: yarn dev:local
     ports:
       - 80:${PORT_SERVER}
     volumes:

@@ -10,7 +10,7 @@ export async function signup(req, res) {
     req.body.password = await hashString(req.body.password);
 
     const user = await usersModel.create(req.body);
-    const jwt = await generateJWT({ email: user.email, role: user.email });
+    const jwt = await generateJWT({ email: user.email, role: user.email, id: user.id });
 
     res.status(201).json(responseSuccess({ user: getDataUser(user), accessToken: jwt }, 'user created success'));
   } catch (error) {
@@ -47,11 +47,32 @@ export async function signin(req, res) {
         .json(responseError([{ code: 'server-403', description: 'wrong credentials' }], 'wrong credentials'));
     }
 
-    const jwt = await generateJWT({ email: user.email, role: user.role });
+    const jwt = await generateJWT({ email: user.email, role: user.email, id: user.id });
 
     res.json(responseSuccess({ user: getDataUser(user), accessToken: jwt }, 'signin successfull'));
   } catch (error) {
     logger.error(error);
     res.status(500).json(responseError(null, 'internal error'));
   }
+}
+
+export async function questions(_, res) {
+  res.json(
+    responseSuccess(
+      {
+        questions: [
+          '¿Cuál es el tipo de sustancia o comportamiento al que te sientes adicto?',
+          '¿Cuánto tiempo has estado involucrado en esta adicción?',
+          '¿Has experimentado dificultades en el trabajo, la escuela o en tus responsabilidades debido a tu adicción?',
+          '¿Has intentado controlar o detener tu adicción en el pasado?',
+          '¿Qué emociones o situaciones desencadenan el uso de la sustancia o el comportamiento adictivo?',
+          '¿Cómo afecta tu adicción a tu salud física y mental?',
+          '¿Has experimentado episodios de abstinencia o retirada exitosos en el pasado?',
+          '¿Cuáles son tus principales motivos para buscar recuperación y abordar tu adicción?',
+          '¿Cuáles son tus fortalezas personales que podrían ayudarte en el proceso de recuperación?'
+        ]
+      },
+      'success'
+    )
+  );
 }

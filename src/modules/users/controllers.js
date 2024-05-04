@@ -84,14 +84,45 @@ export async function getMyAddiction(req, res) {
   }
 }
 
-//TODO
+export async function createNote(req, res) {
+  try {
+    const user = await usersModel.findOne({ email: req.user.email, isActive: true });
 
-export async function createGoal(req, res) {}
+    const notes = user.notes;
 
-export async function completeGoal(req, res) {}
+    user.notes = [...notes, req.body];
 
-export async function createNote(req, res) {}
+    await user.save();
 
-export async function getPeriodNotes(req, res) {}
+    res.status(201).json(responseSuccess(null, 'success create goal'));
+  } catch (error) {
+    logger.error(error);
+    res.status(500).json(responseError(null, 'internal error'));
+  }
+}
 
-export async function getPeriodGoals(req, res) {}
+export async function assignTreatment(req, res) {
+  try {
+    const { patientId, treatment } = req.body;
+
+    await usersModel.findByIdAndUpdate(patientId, { isTreatment: true, treatment });
+
+    res.json(responseSuccess(null, 'success assign treatment'));
+  } catch (error) {
+    logger.error(error);
+    res.status(500).json(responseError(null, 'internal error'));
+  }
+}
+
+export async function healPatient(req, res) {
+  try {
+    const { patientId } = req.params;
+
+    await usersModel.findByIdAndUpdate(patientId, { isHealed: true });
+
+    res.json(responseSuccess(null, 'success patient'));
+  } catch (error) {
+    logger.error(error);
+    res.status(500).json(responseError(null, 'internal error'));
+  }
+}

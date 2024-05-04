@@ -1,4 +1,4 @@
-import { object, string, boolean } from 'yup';
+import { object, string, boolean, number } from 'yup';
 
 export const updateProfileModel = object({
   email: string().trim().email().notRequired().optional(),
@@ -24,4 +24,18 @@ export const updateProfileModel = object({
     .matches(/^[0-9]+$/g),
   isTreatment: boolean().notRequired().optional(),
   treatment: string().notRequired().optional()
+});
+
+export const createNoteModel = object({
+  description: string().notRequired().optional(),
+  emotion: number().min(-2).max(2).integer(),
+  date: number().integer().positive()
+});
+
+export const assignTreatmentModel = object({
+  patientId: string()
+    .trim()
+    .matches(/^[0-9a-fA-F]{24}$/)
+    .required(),
+  treatment: string().trim().required()
 });

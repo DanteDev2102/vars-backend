@@ -38,20 +38,7 @@ const model = new Schema(
       {
         description: Types.String,
         emotion: Types.Number,
-        date: Types.Date
-      }
-    ],
-    goals: [
-      {
-        id: {
-          type: Types.Number,
-          required: true,
-          unique: true
-        },
-        title: Types.String,
-        description: Types.String,
-        isComplete: Types.String,
-        date: Types.Date
+        date: Types.Number
       }
     ],
     isActive: {
@@ -86,6 +73,17 @@ const model = new Schema(
     professional: {
       type: Types.ObjectId,
       ref: 'users'
+    },
+    phone: Types.String,
+    title: {
+      type: Types.String,
+      required() {
+        return this.role === 'professional';
+      }
+    },
+    isHealed: {
+      type: Types.Boolean,
+      default: false
     }
   },
   {
