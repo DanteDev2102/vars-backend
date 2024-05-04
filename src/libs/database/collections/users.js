@@ -84,7 +84,8 @@ const model = new Schema(
     isHealed: {
       type: Types.Boolean,
       default: false
-    }
+    },
+    birthdate: Types.Number
   },
   {
     strict: true,

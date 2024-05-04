@@ -10,7 +10,8 @@ function getPatient(user) {
     context: user.context,
     profileUrl: user.profileUrl,
     isTreatment: user.isTreatment,
-    treatment: user.treatment
+    treatment: user.treatment,
+    birthdate: user.birthdate
   };
 }
 
@@ -22,7 +23,8 @@ function getProfessional(user) {
     email: user.email,
     role: user.role,
     profileUrl: user.profileUrl,
-    nroDoctor: user.nroDoctor
+    nroDoctor: user.nroDoctor,
+    phone: user.phone
   };
 }
 

@@ -40,5 +40,6 @@ export const signupModel = object({
   isTreatment: boolean().optional(),
   treatment: string().optional(),
   title: string().optional(),
-  phone: string().optional()
+  phone: string().optional(),
+  birthdate: number().integer().positive()
 });
