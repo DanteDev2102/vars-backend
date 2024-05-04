@@ -1,4 +1,4 @@
-import { boolean, object, string } from 'yup';
+import { boolean, object, string, number } from 'yup';
 
 export const signinModel = object({
   email: string().trim().email().required(),
