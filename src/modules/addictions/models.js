@@ -8,7 +8,7 @@ export const createAddictionModel = object({
       url: string().url().required(),
       title: string().required(),
       description: string().required(),
-      active: bool().required()
+      isActive: bool().required()
     })
   )
 });
