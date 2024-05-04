@@ -7,7 +7,7 @@ function getPatient(user) {
     role: user.role,
     notes: user.notes,
     goals: user.goals,
-    context: user.context,
+    context: user.context ?? '',
     profileUrl: user.profileUrl,
     isTreatment: user.isTreatment,
     treatment: user.treatment,
