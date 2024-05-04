@@ -1,17 +1,17 @@
 function getPatient(user) {
   return {
-    id: user.id,
-    name: user.name,
-    lastname: user.lastname,
-    email: user.email,
-    role: user.role,
-    notes: user.notes,
-    goals: user.goals,
+    id: user.id ?? '',
+    name: user.name ?? '',
+    lastname: user.lastname ?? '',
+    email: user.email ?? '',
+    role: user.role ?? '',
+    notes: user.notes ?? '',
+    goals: user.goals ?? '',
     context: user.context ?? '',
-    profileUrl: user.profileUrl,
-    isTreatment: user.isTreatment,
-    treatment: user.treatment,
-    birthdate: user.birthdate
+    profileUrl: user.profileUrl ?? '',
+    isTreatment: user.isTreatment ?? '',
+    treatment: user.treatment ?? '',
+    birthdate: user.birthdate ?? ''
   };
 }
 
