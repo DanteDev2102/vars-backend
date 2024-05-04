@@ -38,5 +38,7 @@ export const signupModel = object({
     .matches(/^[0-9]+$/g)
     .optional(),
   isTreatment: boolean().optional(),
-  treatment: string().optional()
+  treatment: string().optional(),
+  title: string().optional(),
+  phone: string().optional()
 });
