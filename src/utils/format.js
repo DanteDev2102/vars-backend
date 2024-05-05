@@ -24,7 +24,8 @@ function getProfessional(user) {
     role: user.role,
     profileUrl: user.profileUrl,
     nroDoctor: user.nroDoctor,
-    phone: user.phone
+    phone: user.phone,
+    title: user.title
   };
 }
 
