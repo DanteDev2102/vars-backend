@@ -6,12 +6,12 @@ function getPatient(user) {
     email: user.email ?? '',
     role: user.role ?? '',
     notes: user.notes ?? '',
-    goals: user.goals ?? '',
     context: user.context ?? '',
     profileUrl: user.profileUrl ?? '',
     isTreatment: user.isTreatment ?? '',
     treatment: user.treatment ?? '',
-    birthdate: user.birthdate ?? ''
+    birthdate: user.birthdate ?? '',
+    addictionId: user.addictionId ?? ''
   };
 }
 
