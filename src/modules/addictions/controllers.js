@@ -40,7 +40,7 @@ export async function getAll(_, res) {
 
 export async function getById(req, res) {
   try {
-    const addiction = await addictionsModel.findById(req.params.id, { isActive: true });
+    const addiction = await addictionsModel.findById(req.params.id);
 
     if (!addiction) {
       return res.status(404).json(responseError([{ description: 'NOT FOUND', code: 'db-404' }], 'NOT FOUND'));
